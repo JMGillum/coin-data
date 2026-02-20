@@ -230,7 +230,7 @@ INSERT INTO denominations(denomination_id, country_id, display_name, tags, serie
 INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('tha_salung', 'tha', 'salung', 'none', "base");
 INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('tha_satang', 'tha', 'satang', 'none', "base");
 INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('tur_kurus', 'tur', 'kurus', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('tur_kurusmdl', 'tur', 'kurus (monnaies de luxe, "base")', 'none');
+INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('tur_kurusmdl', 'tur', 'kurus (monnaies de luxe)', 'none', "base");
 INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('tur_lira', 'tur', 'lira', 'none', "base");
 INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('tur_para', 'tur', 'para', 'none', "base");
 INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('uar_ghirsh', 'uar', 'ghirsh', 'none', "base");

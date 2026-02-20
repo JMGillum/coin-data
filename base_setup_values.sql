@@ -714,7 +714,7 @@ INSERT INTO face_values(value_id, denomination_id, value, display_name, tags, se
 INSERT INTO face_values(value_id, denomination_id, value, display_name, tags, series) VALUES("rus_ruble_25", "rus_ruble", 25.0000000000, NULL, 'none', "base");
 INSERT INTO face_values(value_id, denomination_id, value, display_name, tags, series) VALUES("rus_ruble_3", "rus_ruble", 3.0000000000, NULL, 'none', "base");
 INSERT INTO face_values(value_id, denomination_id, value, display_name, tags, series) VALUES("rus_ruble_5", "rus_ruble", 5.0000000000, NULL, 'none', "base");
-INSERT INTO face_values(value_id, denomination_id, value, display_name, tags, series) VALUES("rus_ruble_fractional_1_2", "rus_ruble", 0.5000000000, "1/2 (poltina, "base")", 'none');
+INSERT INTO face_values(value_id, denomination_id, value, display_name, tags, series) VALUES("rus_ruble_fractional_1_2", "rus_ruble", 0.5000000000, "1/2 (poltina)", 'none', "base");
 INSERT INTO face_values(value_id, denomination_id, value, display_name, tags, series) VALUES("rus_ruble_fractional_37_1_2", "rus_ruble", 37.5000000000, "37-1/2", 'none', "base");
 INSERT INTO face_values(value_id, denomination_id, value, display_name, tags, series) VALUES("rus_ruble_fractional_7_1_2", "rus_ruble", 7.5000000000, "7-1/2", 'none', "base");
 INSERT INTO face_values(value_id, denomination_id, value, display_name, tags, series) VALUES("sau_guinea_1", "sau_guinea", 1.0000000000, NULL, 'none', "base");
