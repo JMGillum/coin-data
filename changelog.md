@@ -1,6 +1,6 @@
 # Changelog
 
-## v1.0 (????)
+## v1.0 (Februrary 21, 2026)
 
 * Started versioning database
 * Created a script for loading files into database
