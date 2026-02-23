@@ -1,753 +1,755 @@
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('afg_abbasi', 'afg', 'abbasi', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('afg_afghani', 'afg', 'afghani', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('afg_habibi', 'afg', 'habibi', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('afg_qiran', 'afg', 'qiran', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('afg_rupee', 'afg', 'rupee', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('afg_sanar', 'afg', 'sanar', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('afg_tilla', 'afg', 'tilla', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('alb_frang ar', 'alb', 'frang ar', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('alb_lek', 'alb', 'lek', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('arg_argentino', 'arg', 'argentino', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('arg_centavo', 'arg', 'centavo', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('arg_peso', 'arg', 'peso', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('aus_crown', 'aus', 'crown', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('aus_florin', 'aus', 'florin', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('aus_penny', 'aus', 'penny', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('aus_shilling', 'aus', 'shilling', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('aus_sovereign', 'aus', 'sovereign', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('aut_dukat', 'aut', 'dukat', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('aut_florin', 'aut', 'florin', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('aut_kreuzer', 'aut', 'kreuzer', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('aut_krone', 'aut', 'krone', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('aut_schilling', 'aut', 'schilling', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('aut_vereinsthaler', 'aut', 'vereinsthaler', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('bel_centime', 'bel', 'centime', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('bel_franc', 'bel', 'franc', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('bgr_lev', 'bgr', 'lev', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('bgr_stotinka', 'bgr', 'stotinka', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('bmu_crown', 'bmu', 'crown', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('bol_boliviano', 'bol', 'boliviano', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('bol_centavo', 'bol', 'centavo', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('bol_escudo', 'bol', 'escudo', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('bol_melgarejo', 'bol', 'melgarejo', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('bol_onza', 'bol', 'onza', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('bol_sol', 'bol', 'sol', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('bra_real', 'bra', 'real', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('can_cent', 'can', 'cent', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('can_dollar', 'can', 'dollar', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('can_maple', 'can', 'maple', 'bullion', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('can_sovereign', 'can', 'sovereign', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('che_franc', 'che', 'franc', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('chl_centavo', 'chl', 'centavo', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('chl_decimo', 'chl', 'decimo', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('chl_peso', 'chl', 'peso', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('chn_cent', 'chn', 'cent', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('chn_chio', 'chn', 'chio', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('chn_dollar', 'chn', 'dollar', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('chn_yuan', 'chn', 'yuan', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('col_centavo', 'col', 'centavo', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('col_decimo', 'col', 'decimo', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('col_peso', 'col', 'peso', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('col_real', 'col', 'real', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('com_franc', 'com', 'franc', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('cri_centavo', 'cri', 'centavo', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('cri_colon', 'cri', 'colon', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('cri_escudo', 'cri', 'escudo', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('cri_onza', 'cri', 'onza', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('cri_peso', 'cri', 'peso', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('csk_dukat', 'csk', 'dukat', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('csk_koruna', 'csk', 'koruna', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('cub_centavo', 'cub', 'centavo', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('cub_peso', 'cub', 'peso', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('cuw_gulden', 'cuw', 'gulden', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('cyp_piastre', 'cyp', 'piastre', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('deu_mark', 'deu', 'mark', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('deu_pfennig', 'deu', 'pfennig', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES("dnk_christian d'or", 'dnk', "christian d'or", 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('dnk_krone', 'dnk', 'krone', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('dnk_ore', 'dnk', 'ore', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('ecu_centavo', 'ecu', 'centavo', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('ecu_condor', 'ecu', 'condor', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('ecu_decimo', 'ecu', 'decimo', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('ecu_sucre', 'ecu', 'sucre', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('egy_ghirsh', 'egy', 'ghirsh', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('egy_pound', 'egy', 'pound', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('eri_centisimo', 'eri', 'centisimo', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('eri_lira', 'eri', 'lira', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('eri_tallero', 'eri', 'tallero', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('esp_centimo', 'esp', 'centimo', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('esp_escudo', 'esp', 'escudo', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('esp_peseta', 'esp', 'peseta', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('esp_real', 'esp', 'real', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('est_kroon', 'est', 'kroon', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('eth_birr', 'eth', 'birr', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('eth_gersh', 'eth', 'gersh', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('eth_santeem', 'eth', 'santeem', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('eth_wark', 'eth', 'wark', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('fin_markka', 'fin', 'markka', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('fin_pennia', 'fin', 'pennia', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('fji_florin', 'fji', 'florin', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('fji_penny', 'fji', 'penny', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('fji_shilling', 'fji', 'shilling', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('fra_centime', 'fra', 'centime', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('fra_franc', 'fra', 'franc', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('gbr_britannia', 'gbr', 'britannia', 'bullion', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('gbr_crown', 'gbr', 'crown', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('gbr_dollar', 'gbr', 'trade dollar', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('gbr_florin', 'gbr', 'florin', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('gbr_penny', 'gbr', 'penny', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('gbr_pound', 'gbr', 'pound', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('gbr_shilling', 'gbr', 'shilling', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('gbr_sovereign', 'gbr', 'sovereign', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('grc_drachma', 'grc', 'drachma', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('grc_lepton', 'grc', 'lepton', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('gtm_centavo', 'gtm', 'centavo', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('gtm_centimo', 'gtm', 'centimo', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('gtm_peso', 'gtm', 'peso', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('gtm_quetzal', 'gtm', 'quetzal', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('gtm_real', 'gtm', 'real', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('haw_cent', 'haw', 'cent', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('haw_dollar', 'haw', 'dollar', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('hkg_cent', 'hkg', 'cent', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('hkg_dollar', 'hkg', 'dollar', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('hnd_centavo', 'hnd', 'centavo', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('hnd_lempira', 'hnd', 'lempira', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('hnd_peso', 'hnd', 'peso', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('hti_centime', 'hti', 'centime', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('hti_gourde', 'hti', 'gourde', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('hun_dukat', 'hun', 'dukat', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('hun_forint', 'hun', 'forint', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('hun_korona', 'hun', 'korona', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('hun_krajczar', 'hun', 'krajczar', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('hun_pengo', 'hun', 'pengo', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('ind_anna', 'ind', 'anna', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('ind_mohur', 'ind', 'mohur', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('ind_rupee', 'ind', 'rupee', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('ind_sovereign', 'ind', 'sovereign', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('irl_crown', 'irl', 'crown', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('irl_florin', 'irl', 'florin', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('irl_shilling', 'irl', 'shilling', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('irn_dinar', 'irn', 'dinar', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('irn_pahlavi', 'irn', 'pahlavi', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('irn_qiran', 'irn', 'qiran', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('irn_rial', 'irn', 'rial', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('irn_shahi', 'irn', 'shahi', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('irn_toman', 'irn', 'toman', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('irq_fils', 'irq', 'fils', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('irq_riyal', 'irq', 'riyal', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('isl_krona', 'isl', 'krona', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('isr_pound', 'isr', 'pound', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('isr_pruta', 'isr', 'pruta', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('ita_centesimo', 'ita', 'centesimo', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('ita_lira', 'ita', 'lira', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('jam_penny', 'jam', 'penny', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('jpn_dollar', 'jpn', 'trade dollar', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('jpn_sen', 'jpn', 'sen', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('jpn_yen', 'jpn', 'yen', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('khm_centime', 'khm', 'centime', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('khm_franc', 'khm', 'franc', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('khm_piastre', 'khm', 'piastre', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('kor_chon', 'kor', 'chon', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('kor_whan', 'kor', 'whan', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('kor_won', 'kor', 'won', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('kor_yang', 'kor', 'yang', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('kwt_dinar', 'kwt', 'dinar', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('lbn_piastre', 'lbn', 'piastre', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('lbr_cent', 'lbr', 'cent', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('lbr_dollar', 'lbr', 'dollar', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('lie_frank', 'lie', 'frank', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('lie_krone', 'lie', 'krone', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('lie_thaler', 'lie', 'thaler', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('ltu_litas', 'ltu', 'litas', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('lux_franc', 'lux', 'franc', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('lva_lats', 'lva', 'lats', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('mac_pataca', 'mac', 'pataca', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('mar_dirham', 'mar', 'dirham', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('mar_franc', 'mar', 'franc', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('mar_rial', 'mar', 'rial', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('mex_centavo', 'mex', 'centavo', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('mex_escudo', 'mex', 'escudo', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('mex_peso', 'mex', 'peso', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('mex_real', 'mex', 'real', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('mmr_anna', 'mmr', 'anna', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('mmr_kyat', 'mmr', 'kyat', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('mmr_rupee', 'mmr', 'rupee', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('mng_mongo', 'mng', 'mongo', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('mng_tukhrik', 'mng', 'tukhrik', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('nfl_cent', 'nfl', 'cent', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('nfl_dollar', 'nfl', 'dollar', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('nld_cents', 'nld', 'cent', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('nld_dukaat', 'nld', 'dukaat', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('nld_gulden', 'nld', 'gulden', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('nor_krone', 'nor', 'krone', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('nor_ore', 'nor', 'ore', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('nor_skilling', 'nor', 'skilling', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('nor_speciedaler', 'nor', 'speciedaler', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('npl_paisa', 'npl', 'paisa', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('npl_rupee', 'npl', 'rupee', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('nzl_crown', 'nzl', 'crown', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('nzl_florin', 'nzl', 'florin', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('nzl_penny', 'nzl', 'penny', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('nzl_shilling', 'nzl', 'shilling', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('pan_balboa', 'pan', 'balboa', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('pan_centesimo', 'pan', 'centesimo', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('per_dinero', 'per', 'dinero', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('per_escudo', 'per', 'escudo', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('per_libra', 'per', 'libra', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('per_peseta', 'per', 'peseta', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('per_real', 'per', 'real', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('per_sol', 'per', 'sol', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('phl_centavo', 'phl', 'centavo', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('phl_centimo', 'phl', 'centimo', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('phl_peso', 'phl', 'peso', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('pol_zloty', 'pol', 'zloty', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('prt_centavo', 'prt', 'centavo', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('prt_escudo', 'prt', 'escudo', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('prt_real', 'prt', 'real', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('pry_peso', 'pry', 'peso', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('rou_banu', 'rou', 'banu', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('rou_leu', 'rou', 'leu', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('rus_kopek', 'rus', 'kopek', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('rus_ruble', 'rus', 'ruble', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('sau_guinea', 'sau', 'guinea', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('sau_riyal', 'sau', 'riyal', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('sau_sovereign', 'sau', 'sovereign', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('slv_centavo', 'slv', 'centavo', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('slv_colon', 'slv', 'colon', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('slv_peso', 'slv', 'peso', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('srb_dinar', 'srb', 'dinar', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('srb_para', 'srb', 'para', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('sur_gulden', 'sur', 'gulden', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('swe_carolin', 'swe', 'carolin', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('swe_dukat', 'swe', 'dukat', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('swe_krona', 'swe', 'krona', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('swe_ore', 'swe', 'ore', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('swe_riksdaler riksmynt', 'swe', 'riksdaler riksmynt', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('syr_lira', 'syr', 'lira', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('syr_piastre', 'syr', 'piastre', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('syr_pound', 'syr', 'pound', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('tha_baht', 'tha', 'baht', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('tha_salung', 'tha', 'salung', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('tha_satang', 'tha', 'satang', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('tur_kurus', 'tur', 'kurus', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('tur_kurusmdl', 'tur', 'kurus (monnaies de luxe)', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('tur_lira', 'tur', 'lira', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('tur_para', 'tur', 'para', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('uar_ghirsh', 'uar', 'ghirsh', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('uar_pound', 'uar', 'pound', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('ury_centesimo', 'ury', 'centesimo', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('ury_peso', 'ury', 'peso', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('usa_bullion', 'usa', 'bullion', 'bullion', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('usa_cent', 'usa', 'cent', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('usa_dollar', 'usa', 'dollar', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('ven_bolivar', 'ven', 'bolivar', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('ven_centavo', 'ven', 'centavo', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('ven_centimo', 'ven', 'centimo', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('ven_real', 'ven', 'real', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('ven_venezolano', 'ven', 'venezolano', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('zaf_cent', 'zaf', 'cent', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('zaf_florin', 'zaf', 'florin', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('zaf_krugerrand', 'zaf', 'krugerrand', 'bullion', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('zaf_penny', 'zaf', 'penny', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('zaf_pond', 'zaf', 'pond', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('zaf_pound', 'zaf', 'pound', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('zaf_rand', 'zaf', 'rand', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('zaf_shilling', 'zaf', 'shilling', 'none', "base");
-INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES('zaf_sovereign', 'zaf', 'sovereign', 'none', "base");
-INSERT INTO denomination_names(denomination_id, name) VALUES('afg_abbasi', 'abbasi');
-INSERT INTO denomination_names(denomination_id, name) VALUES('afg_abbasi', 'abbasis');
-INSERT INTO denomination_names(denomination_id, name) VALUES('afg_afghani', 'afghani');
-INSERT INTO denomination_names(denomination_id, name) VALUES('afg_afghani', 'afghanis');
-INSERT INTO denomination_names(denomination_id, name) VALUES('afg_habibi', 'habibi');
-INSERT INTO denomination_names(denomination_id, name) VALUES('afg_habibi', 'habibis');
-INSERT INTO denomination_names(denomination_id, name) VALUES('afg_qiran', 'qiran');
-INSERT INTO denomination_names(denomination_id, name) VALUES('afg_qiran', 'qirans');
-INSERT INTO denomination_names(denomination_id, name) VALUES('afg_rupee', 'rupee');
-INSERT INTO denomination_names(denomination_id, name) VALUES('afg_rupee', 'rupees');
-INSERT INTO denomination_names(denomination_id, name) VALUES('afg_sanar', 'sanar');
-INSERT INTO denomination_names(denomination_id, name) VALUES('afg_sanar', 'sanars');
-INSERT INTO denomination_names(denomination_id, name) VALUES('afg_tilla', 'tilla');
-INSERT INTO denomination_names(denomination_id, name) VALUES('afg_tilla', 'tillas');
-INSERT INTO denomination_names(denomination_id, name) VALUES('alb_frang ar', 'frang ar');
-INSERT INTO denomination_names(denomination_id, name) VALUES('alb_frang ar', 'franga ar');
-INSERT INTO denomination_names(denomination_id, name) VALUES('alb_lek', 'lek');
-INSERT INTO denomination_names(denomination_id, name) VALUES('arg_argentino', 'argentino');
-INSERT INTO denomination_names(denomination_id, name) VALUES('arg_argentino', 'argentinos');
-INSERT INTO denomination_names(denomination_id, name) VALUES('arg_centavo', 'centavo');
-INSERT INTO denomination_names(denomination_id, name) VALUES('arg_centavo', 'centavos');
-INSERT INTO denomination_names(denomination_id, name) VALUES('arg_peso', 'peso');
-INSERT INTO denomination_names(denomination_id, name) VALUES('arg_peso', 'pesos');
-INSERT INTO denomination_names(denomination_id, name) VALUES('aus_crown', 'crown');
-INSERT INTO denomination_names(denomination_id, name) VALUES('aus_crown', 'crowns');
-INSERT INTO denomination_names(denomination_id, name) VALUES('aus_florin', 'florin');
-INSERT INTO denomination_names(denomination_id, name) VALUES('aus_florin', 'florins');
-INSERT INTO denomination_names(denomination_id, name) VALUES('aus_penny', 'penny');
-INSERT INTO denomination_names(denomination_id, name) VALUES('aus_penny', 'pence');
-INSERT INTO denomination_names(denomination_id, name) VALUES('aus_shilling', 'shilling');
-INSERT INTO denomination_names(denomination_id, name) VALUES('aus_shilling', 'shillings');
-INSERT INTO denomination_names(denomination_id, name) VALUES('aus_sovereign', 'sovereign');
-INSERT INTO denomination_names(denomination_id, name) VALUES('aus_sovereign', 'sovereigns');
-INSERT INTO denomination_names(denomination_id, name) VALUES('aut_dukat', 'dukat');
-INSERT INTO denomination_names(denomination_id, name) VALUES('aut_dukat', 'dukaten');
-INSERT INTO denomination_names(denomination_id, name) VALUES('aut_florin', 'florin');
-INSERT INTO denomination_names(denomination_id, name) VALUES('aut_florin', 'florins');
-INSERT INTO denomination_names(denomination_id, name) VALUES('aut_kreuzer', 'kreuzer');
-INSERT INTO denomination_names(denomination_id, name) VALUES('aut_krone', 'krone');
-INSERT INTO denomination_names(denomination_id, name) VALUES('aut_krone', 'kronen');
-INSERT INTO denomination_names(denomination_id, name) VALUES('aut_schilling', 'schilling');
-INSERT INTO denomination_names(denomination_id, name) VALUES('aut_schilling', 'schillings');
-INSERT INTO denomination_names(denomination_id, name) VALUES('aut_vereinsthaler', 'vereinsthaler');
-INSERT INTO denomination_names(denomination_id, name) VALUES('bel_centime', 'centime');
-INSERT INTO denomination_names(denomination_id, name) VALUES('bel_centime', 'centimes');
-INSERT INTO denomination_names(denomination_id, name) VALUES('bel_franc', 'franc');
-INSERT INTO denomination_names(denomination_id, name) VALUES('bel_franc', 'francs');
-INSERT INTO denomination_names(denomination_id, name) VALUES('bgr_lev', 'lev');
-INSERT INTO denomination_names(denomination_id, name) VALUES('bgr_lev', 'leva');
-INSERT INTO denomination_names(denomination_id, name) VALUES('bgr_stotinka', 'stotinka');
-INSERT INTO denomination_names(denomination_id, name) VALUES('bgr_stotinka', 'stotinki');
-INSERT INTO denomination_names(denomination_id, name) VALUES('bmu_crown', 'crown');
-INSERT INTO denomination_names(denomination_id, name) VALUES('bmu_crown', 'crowns');
-INSERT INTO denomination_names(denomination_id, name) VALUES('bol_boliviano', 'boliviano');
-INSERT INTO denomination_names(denomination_id, name) VALUES('bol_boliviano', 'bolivianos');
-INSERT INTO denomination_names(denomination_id, name) VALUES('bol_centavo', 'centavo');
-INSERT INTO denomination_names(denomination_id, name) VALUES('bol_centavo', 'centavos');
-INSERT INTO denomination_names(denomination_id, name) VALUES('bol_centavo', 'centecimo');
-INSERT INTO denomination_names(denomination_id, name) VALUES('bol_centavo', 'centecimos');
-INSERT INTO denomination_names(denomination_id, name) VALUES('bol_escudo', 'escudo');
-INSERT INTO denomination_names(denomination_id, name) VALUES('bol_escudo', 'escudos');
-INSERT INTO denomination_names(denomination_id, name) VALUES('bol_melgarejo', 'melgarejo');
-INSERT INTO denomination_names(denomination_id, name) VALUES('bol_melgarejo', 'melgarejos');
-INSERT INTO denomination_names(denomination_id, name) VALUES('bol_onza', 'onza');
-INSERT INTO denomination_names(denomination_id, name) VALUES('bol_onza', 'onzas');
-INSERT INTO denomination_names(denomination_id, name) VALUES('bol_sol', 'sol');
-INSERT INTO denomination_names(denomination_id, name) VALUES('bol_sol', 'soles');
-INSERT INTO denomination_names(denomination_id, name) VALUES('bra_real', 'real');
-INSERT INTO denomination_names(denomination_id, name) VALUES('bra_real', 'reis');
-INSERT INTO denomination_names(denomination_id, name) VALUES('can_cent', 'cent');
-INSERT INTO denomination_names(denomination_id, name) VALUES('can_cent', 'cents');
-INSERT INTO denomination_names(denomination_id, name) VALUES('can_dollar', 'dollar');
-INSERT INTO denomination_names(denomination_id, name) VALUES('can_dollar', 'dollars');
-INSERT INTO denomination_names(denomination_id, name) VALUES('can_maple', 'maple');
-INSERT INTO denomination_names(denomination_id, name) VALUES('can_maple', 'maples');
-INSERT INTO denomination_names(denomination_id, name) VALUES('can_sovereign', 'sovereign');
-INSERT INTO denomination_names(denomination_id, name) VALUES('can_sovereign', 'sovereigns');
-INSERT INTO denomination_names(denomination_id, name) VALUES('che_franc', 'franc');
-INSERT INTO denomination_names(denomination_id, name) VALUES('che_franc', 'francs');
-INSERT INTO denomination_names(denomination_id, name) VALUES('chl_centavo', 'centavo');
-INSERT INTO denomination_names(denomination_id, name) VALUES('chl_centavo', 'centavos');
-INSERT INTO denomination_names(denomination_id, name) VALUES('chl_decimo', 'decimo');
-INSERT INTO denomination_names(denomination_id, name) VALUES('chl_decimo', 'decimos');
-INSERT INTO denomination_names(denomination_id, name) VALUES('chl_peso', 'peso');
-INSERT INTO denomination_names(denomination_id, name) VALUES('chl_peso', 'pesos');
-INSERT INTO denomination_names(denomination_id, name) VALUES('chn_cent', 'cent');
-INSERT INTO denomination_names(denomination_id, name) VALUES('chn_cent', 'cents');
-INSERT INTO denomination_names(denomination_id, name) VALUES('chn_chio', 'chio');
-INSERT INTO denomination_names(denomination_id, name) VALUES('chn_dollar', 'dollar');
-INSERT INTO denomination_names(denomination_id, name) VALUES('chn_dollar', 'dollars');
-INSERT INTO denomination_names(denomination_id, name) VALUES('chn_yuan', 'yuan');
-INSERT INTO denomination_names(denomination_id, name) VALUES('col_centavo', 'centavo');
-INSERT INTO denomination_names(denomination_id, name) VALUES('col_centavo', 'centavos');
-INSERT INTO denomination_names(denomination_id, name) VALUES('col_decimo', 'decimo');
-INSERT INTO denomination_names(denomination_id, name) VALUES('col_decimo', 'decimos');
-INSERT INTO denomination_names(denomination_id, name) VALUES('col_peso', 'peso');
-INSERT INTO denomination_names(denomination_id, name) VALUES('col_peso', 'pesos');
-INSERT INTO denomination_names(denomination_id, name) VALUES('col_real', 'real');
-INSERT INTO denomination_names(denomination_id, name) VALUES('col_real', 'reales');
-INSERT INTO denomination_names(denomination_id, name) VALUES('com_franc', 'franc');
-INSERT INTO denomination_names(denomination_id, name) VALUES('com_franc', 'francs');
-INSERT INTO denomination_names(denomination_id, name) VALUES('cri_centavo', 'centavo');
-INSERT INTO denomination_names(denomination_id, name) VALUES('cri_centavo', 'centavos');
-INSERT INTO denomination_names(denomination_id, name) VALUES('cri_colon', 'colon');
-INSERT INTO denomination_names(denomination_id, name) VALUES('cri_colon', 'colones');
-INSERT INTO denomination_names(denomination_id, name) VALUES('cri_escudo', 'escudo');
-INSERT INTO denomination_names(denomination_id, name) VALUES('cri_escudo', 'escudos');
-INSERT INTO denomination_names(denomination_id, name) VALUES('cri_onza', 'onza');
-INSERT INTO denomination_names(denomination_id, name) VALUES('cri_onza', 'onzas');
-INSERT INTO denomination_names(denomination_id, name) VALUES('cri_peso', 'peso');
-INSERT INTO denomination_names(denomination_id, name) VALUES('cri_peso', 'pesos');
-INSERT INTO denomination_names(denomination_id, name) VALUES('csk_dukat', 'dukat');
-INSERT INTO denomination_names(denomination_id, name) VALUES('csk_dukat', 'dukaty');
-INSERT INTO denomination_names(denomination_id, name) VALUES('csk_dukat', 'dukatu');
-INSERT INTO denomination_names(denomination_id, name) VALUES('csk_koruna', 'koruna');
-INSERT INTO denomination_names(denomination_id, name) VALUES('csk_koruna', 'korun');
-INSERT INTO denomination_names(denomination_id, name) VALUES('cub_centavo', 'centavo');
-INSERT INTO denomination_names(denomination_id, name) VALUES('cub_centavo', 'centavos');
-INSERT INTO denomination_names(denomination_id, name) VALUES('cub_peso', 'peso');
-INSERT INTO denomination_names(denomination_id, name) VALUES('cub_peso', 'pesos');
-INSERT INTO denomination_names(denomination_id, name) VALUES('cuw_gulden', 'gulden');
-INSERT INTO denomination_names(denomination_id, name) VALUES('cuw_gulden', 'guilder');
-INSERT INTO denomination_names(denomination_id, name) VALUES('cuw_gulden', 'florin');
-INSERT INTO denomination_names(denomination_id, name) VALUES('cyp_piastre', 'piastre');
-INSERT INTO denomination_names(denomination_id, name) VALUES('cyp_piastre', 'piastres');
-INSERT INTO denomination_names(denomination_id, name) VALUES('deu_mark', 'mark');
-INSERT INTO denomination_names(denomination_id, name) VALUES('deu_mark', 'marks');
-INSERT INTO denomination_names(denomination_id, name) VALUES('deu_pfennig', 'pfennig');
-INSERT INTO denomination_names(denomination_id, name) VALUES('deu_pfennig', 'pfennigs');
-INSERT INTO denomination_names(denomination_id, name) VALUES("dnk_christian d'or", "christian d'or");
-INSERT INTO denomination_names(denomination_id, name) VALUES("dnk_christian d'or", 'christian');
-INSERT INTO denomination_names(denomination_id, name) VALUES("dnk_christian d'or", "d'or");
-INSERT INTO denomination_names(denomination_id, name) VALUES('dnk_krone', 'krone');
-INSERT INTO denomination_names(denomination_id, name) VALUES('dnk_krone', 'kroner');
-INSERT INTO denomination_names(denomination_id, name) VALUES('dnk_ore', 'ore');
-INSERT INTO denomination_names(denomination_id, name) VALUES('ecu_centavo', 'centavo');
-INSERT INTO denomination_names(denomination_id, name) VALUES('ecu_centavo', 'centavos');
-INSERT INTO denomination_names(denomination_id, name) VALUES('ecu_condor', 'condor');
-INSERT INTO denomination_names(denomination_id, name) VALUES('ecu_decimo', 'decimo');
-INSERT INTO denomination_names(denomination_id, name) VALUES('ecu_decimo', 'decimos');
-INSERT INTO denomination_names(denomination_id, name) VALUES('ecu_sucre', 'sucre');
-INSERT INTO denomination_names(denomination_id, name) VALUES('ecu_sucre', 'sucres');
-INSERT INTO denomination_names(denomination_id, name) VALUES('egy_ghirsh', 'ghirsh');
-INSERT INTO denomination_names(denomination_id, name) VALUES('egy_ghirsh', 'qirsh');
-INSERT INTO denomination_names(denomination_id, name) VALUES('egy_ghirsh', 'piastre');
-INSERT INTO denomination_names(denomination_id, name) VALUES('egy_pound', 'pound');
-INSERT INTO denomination_names(denomination_id, name) VALUES('egy_pound', 'pounds');
-INSERT INTO denomination_names(denomination_id, name) VALUES('eri_centisimo', 'centisimo');
-INSERT INTO denomination_names(denomination_id, name) VALUES('eri_centisimo', 'centesimi');
-INSERT INTO denomination_names(denomination_id, name) VALUES('eri_lira', 'lira');
-INSERT INTO denomination_names(denomination_id, name) VALUES('eri_lira', 'lire');
-INSERT INTO denomination_names(denomination_id, name) VALUES('eri_tallero', 'tallero');
-INSERT INTO denomination_names(denomination_id, name) VALUES('esp_centimo', 'centimo');
-INSERT INTO denomination_names(denomination_id, name) VALUES('esp_centimo', 'centimos');
-INSERT INTO denomination_names(denomination_id, name) VALUES('esp_escudo', 'escudo');
-INSERT INTO denomination_names(denomination_id, name) VALUES('esp_escudo', 'escudos');
-INSERT INTO denomination_names(denomination_id, name) VALUES('esp_peseta', 'peseta');
-INSERT INTO denomination_names(denomination_id, name) VALUES('esp_peseta', 'pesetas');
-INSERT INTO denomination_names(denomination_id, name) VALUES('esp_real', 'real');
-INSERT INTO denomination_names(denomination_id, name) VALUES('esp_real', 'reales');
-INSERT INTO denomination_names(denomination_id, name) VALUES('est_kroon', 'kroon');
-INSERT INTO denomination_names(denomination_id, name) VALUES('est_kroon', 'krooni');
-INSERT INTO denomination_names(denomination_id, name) VALUES('eth_birr', 'birr');
-INSERT INTO denomination_names(denomination_id, name) VALUES('eth_birr', 'birrs');
-INSERT INTO denomination_names(denomination_id, name) VALUES('eth_gersh', 'gersh');
-INSERT INTO denomination_names(denomination_id, name) VALUES('eth_santeem', 'santeem');
-INSERT INTO denomination_names(denomination_id, name) VALUES('eth_wark', 'wark');
-INSERT INTO denomination_names(denomination_id, name) VALUES('eth_wark', 'warks');
-INSERT INTO denomination_names(denomination_id, name) VALUES('fin_markka', 'markka');
-INSERT INTO denomination_names(denomination_id, name) VALUES('fin_markka', 'markaa');
-INSERT INTO denomination_names(denomination_id, name) VALUES('fin_pennia', 'pennia');
-INSERT INTO denomination_names(denomination_id, name) VALUES('fji_florin', 'florin');
-INSERT INTO denomination_names(denomination_id, name) VALUES('fji_penny', 'penny');
-INSERT INTO denomination_names(denomination_id, name) VALUES('fji_penny', 'pence');
-INSERT INTO denomination_names(denomination_id, name) VALUES('fji_shilling', 'shilling');
-INSERT INTO denomination_names(denomination_id, name) VALUES('fra_centime', 'centime');
-INSERT INTO denomination_names(denomination_id, name) VALUES('fra_centime', 'centimes');
-INSERT INTO denomination_names(denomination_id, name) VALUES('fra_franc', 'franc');
-INSERT INTO denomination_names(denomination_id, name) VALUES('fra_franc', 'francs');
-INSERT INTO denomination_names(denomination_id, name) VALUES('gbr_britannia', 'britannia');
-INSERT INTO denomination_names(denomination_id, name) VALUES('gbr_britannia', 'britannias');
-INSERT INTO denomination_names(denomination_id, name) VALUES('gbr_crown', 'crown');
-INSERT INTO denomination_names(denomination_id, name) VALUES('gbr_crown', 'crowns');
-INSERT INTO denomination_names(denomination_id, name) VALUES('gbr_dollar', 'trade dollar');
-INSERT INTO denomination_names(denomination_id, name) VALUES('gbr_dollar', 'dollar');
-INSERT INTO denomination_names(denomination_id, name) VALUES('gbr_dollar', 'dollars');
-INSERT INTO denomination_names(denomination_id, name) VALUES('gbr_dollar', 'trade dollars');
-INSERT INTO denomination_names(denomination_id, name) VALUES('gbr_florin', 'florin');
-INSERT INTO denomination_names(denomination_id, name) VALUES('gbr_florin', 'florins');
-INSERT INTO denomination_names(denomination_id, name) VALUES('gbr_penny', 'penny');
-INSERT INTO denomination_names(denomination_id, name) VALUES('gbr_penny', 'pence');
-INSERT INTO denomination_names(denomination_id, name) VALUES('gbr_pound', 'pound');
-INSERT INTO denomination_names(denomination_id, name) VALUES('gbr_pound', 'pounds');
-INSERT INTO denomination_names(denomination_id, name) VALUES('gbr_shilling', 'shilling');
-INSERT INTO denomination_names(denomination_id, name) VALUES('gbr_shilling', 'shillings');
-INSERT INTO denomination_names(denomination_id, name) VALUES('gbr_sovereign', 'sovereign');
-INSERT INTO denomination_names(denomination_id, name) VALUES('gbr_sovereign', 'sovereigns');
-INSERT INTO denomination_names(denomination_id, name) VALUES('grc_drachma', 'drachma');
-INSERT INTO denomination_names(denomination_id, name) VALUES('grc_drachma', 'drachmai');
-INSERT INTO denomination_names(denomination_id, name) VALUES('grc_drachma', 'drachmae');
-INSERT INTO denomination_names(denomination_id, name) VALUES('grc_lepton', 'lepton');
-INSERT INTO denomination_names(denomination_id, name) VALUES('grc_lepton', 'lepto');
-INSERT INTO denomination_names(denomination_id, name) VALUES('grc_lepton', 'lepta');
-INSERT INTO denomination_names(denomination_id, name) VALUES('haw_cent', 'cent');
-INSERT INTO denomination_names(denomination_id, name) VALUES('haw_cent', 'cents');
-INSERT INTO denomination_names(denomination_id, name) VALUES('haw_dollar', 'dollar');
-INSERT INTO denomination_names(denomination_id, name) VALUES('haw_dollar', 'dollars');
-INSERT INTO denomination_names(denomination_id, name) VALUES('hkg_cent', 'cent');
-INSERT INTO denomination_names(denomination_id, name) VALUES('hkg_cent', 'cents');
-INSERT INTO denomination_names(denomination_id, name) VALUES('hkg_dollar', 'dollar');
-INSERT INTO denomination_names(denomination_id, name) VALUES('hkg_dollar', 'dollars');
-INSERT INTO denomination_names(denomination_id, name) VALUES('hnd_centavo', 'centavo');
-INSERT INTO denomination_names(denomination_id, name) VALUES('hnd_centavo', 'centavos');
-INSERT INTO denomination_names(denomination_id, name) VALUES('hnd_lempira', 'lempira');
-INSERT INTO denomination_names(denomination_id, name) VALUES('hnd_lempira', 'lempiras');
-INSERT INTO denomination_names(denomination_id, name) VALUES('hnd_peso', 'peso');
-INSERT INTO denomination_names(denomination_id, name) VALUES('hnd_peso', 'pesos');
-INSERT INTO denomination_names(denomination_id, name) VALUES('hti_centime', 'centime');
-INSERT INTO denomination_names(denomination_id, name) VALUES('hti_centime', 'centimes');
-INSERT INTO denomination_names(denomination_id, name) VALUES('hti_gourde', 'gourde');
-INSERT INTO denomination_names(denomination_id, name) VALUES('hti_gourde', 'gourdes');
-INSERT INTO denomination_names(denomination_id, name) VALUES('hun_dukat', 'dukat');
-INSERT INTO denomination_names(denomination_id, name) VALUES('hun_dukat', 'ducat');
-INSERT INTO denomination_names(denomination_id, name) VALUES('hun_dukat', 'dukats');
-INSERT INTO denomination_names(denomination_id, name) VALUES('hun_dukat', 'ducats');
-INSERT INTO denomination_names(denomination_id, name) VALUES('hun_forint', 'forint');
-INSERT INTO denomination_names(denomination_id, name) VALUES('hun_korona', 'korona');
-INSERT INTO denomination_names(denomination_id, name) VALUES('hun_krajczar', 'krajczar');
-INSERT INTO denomination_names(denomination_id, name) VALUES('hun_pengo', 'pengo');
-INSERT INTO denomination_names(denomination_id, name) VALUES('ind_anna', 'anna');
-INSERT INTO denomination_names(denomination_id, name) VALUES('ind_anna', 'annas');
-INSERT INTO denomination_names(denomination_id, name) VALUES('ind_mohur', 'mohur');
-INSERT INTO denomination_names(denomination_id, name) VALUES('ind_mohur', 'mohurs');
-INSERT INTO denomination_names(denomination_id, name) VALUES('ind_rupee', 'rupee');
-INSERT INTO denomination_names(denomination_id, name) VALUES('ind_rupee', 'rupees');
-INSERT INTO denomination_names(denomination_id, name) VALUES('ind_sovereign', 'sovereign');
-INSERT INTO denomination_names(denomination_id, name) VALUES('ind_sovereign', 'sovereigns');
-INSERT INTO denomination_names(denomination_id, name) VALUES('irl_crown', 'crown');
-INSERT INTO denomination_names(denomination_id, name) VALUES('irl_crown', 'crowns');
-INSERT INTO denomination_names(denomination_id, name) VALUES('irl_florin', 'florin');
-INSERT INTO denomination_names(denomination_id, name) VALUES('irl_florin', 'florins');
-INSERT INTO denomination_names(denomination_id, name) VALUES('irl_shilling', 'shilling');
-INSERT INTO denomination_names(denomination_id, name) VALUES('irl_shilling', 'shillings');
-INSERT INTO denomination_names(denomination_id, name) VALUES('irq_fils', 'fils');
-INSERT INTO denomination_names(denomination_id, name) VALUES('irq_riyal', 'riyal');
-INSERT INTO denomination_names(denomination_id, name) VALUES('irq_riyal', 'riyals');
-INSERT INTO denomination_names(denomination_id, name) VALUES('isl_krona', 'krona');
-INSERT INTO denomination_names(denomination_id, name) VALUES('isl_krona', 'kronur');
-INSERT INTO denomination_names(denomination_id, name) VALUES('ita_centesimo', 'centesimo');
-INSERT INTO denomination_names(denomination_id, name) VALUES('ita_centesimo', 'centesimi');
-INSERT INTO denomination_names(denomination_id, name) VALUES('ita_centesimo', 'centesimis');
-INSERT INTO denomination_names(denomination_id, name) VALUES('ita_lira', 'lira');
-INSERT INTO denomination_names(denomination_id, name) VALUES('ita_lira', 'lire');
-INSERT INTO denomination_names(denomination_id, name) VALUES('ita_lira', 'liras');
-INSERT INTO denomination_names(denomination_id, name) VALUES('jam_penny', 'penny');
-INSERT INTO denomination_names(denomination_id, name) VALUES('jam_penny', 'pence');
-INSERT INTO denomination_names(denomination_id, name) VALUES('jpn_dollar', 'trade dollar');
-INSERT INTO denomination_names(denomination_id, name) VALUES('jpn_dollar', 'dollar');
-INSERT INTO denomination_names(denomination_id, name) VALUES('jpn_dollar', 'dollars');
-INSERT INTO denomination_names(denomination_id, name) VALUES('jpn_dollar', 'trade dollars');
-INSERT INTO denomination_names(denomination_id, name) VALUES('jpn_sen', 'sen');
-INSERT INTO denomination_names(denomination_id, name) VALUES('jpn_yen', 'yen');
-INSERT INTO denomination_names(denomination_id, name) VALUES('khm_centime', 'centime');
-INSERT INTO denomination_names(denomination_id, name) VALUES('khm_centime', 'centimes');
-INSERT INTO denomination_names(denomination_id, name) VALUES('khm_franc', 'franc');
-INSERT INTO denomination_names(denomination_id, name) VALUES('khm_franc', 'francs');
-INSERT INTO denomination_names(denomination_id, name) VALUES('khm_piastre', 'piastre');
-INSERT INTO denomination_names(denomination_id, name) VALUES('khm_piastre', 'piastres');
-INSERT INTO denomination_names(denomination_id, name) VALUES('kor_chon', 'chon');
-INSERT INTO denomination_names(denomination_id, name) VALUES('kor_whan', 'whan');
-INSERT INTO denomination_names(denomination_id, name) VALUES('kor_won', 'won');
-INSERT INTO denomination_names(denomination_id, name) VALUES('kor_yang', 'yang');
-INSERT INTO denomination_names(denomination_id, name) VALUES('kwt_dinar', 'dinar');
-INSERT INTO denomination_names(denomination_id, name) VALUES('kwt_dinar', 'dinars');
-INSERT INTO denomination_names(denomination_id, name) VALUES('lbn_piastre', 'piastre');
-INSERT INTO denomination_names(denomination_id, name) VALUES('lbn_piastre', 'piastres');
-INSERT INTO denomination_names(denomination_id, name) VALUES('lbr_cent', 'cent');
-INSERT INTO denomination_names(denomination_id, name) VALUES('lbr_cent', 'cents');
-INSERT INTO denomination_names(denomination_id, name) VALUES('lbr_dollar', 'dollar');
-INSERT INTO denomination_names(denomination_id, name) VALUES('lbr_dollar', 'dollars');
-INSERT INTO denomination_names(denomination_id, name) VALUES('ltu_litas', 'litas');
-INSERT INTO denomination_names(denomination_id, name) VALUES('ltu_litas', 'litu');
-INSERT INTO denomination_names(denomination_id, name) VALUES('ltu_litas', 'litai');
-INSERT INTO denomination_names(denomination_id, name) VALUES('lux_franc', 'franc');
-INSERT INTO denomination_names(denomination_id, name) VALUES('lux_franc', 'francs');
-INSERT INTO denomination_names(denomination_id, name) VALUES('lux_franc', 'frang');
-INSERT INTO denomination_names(denomination_id, name) VALUES('lux_franc', 'frangs');
-INSERT INTO denomination_names(denomination_id, name) VALUES('lva_lats', 'lats');
-INSERT INTO denomination_names(denomination_id, name) VALUES('lva_lats', 'lati');
-INSERT INTO denomination_names(denomination_id, name) VALUES('mac_pataca', 'pataca');
-INSERT INTO denomination_names(denomination_id, name) VALUES('mac_pataca', 'patacas');
-INSERT INTO denomination_names(denomination_id, name) VALUES('mar_dirham', 'dirham');
-INSERT INTO denomination_names(denomination_id, name) VALUES('mar_franc', 'franc');
-INSERT INTO denomination_names(denomination_id, name) VALUES('mar_franc', 'francs');
-INSERT INTO denomination_names(denomination_id, name) VALUES('mar_rial', 'rial');
-INSERT INTO denomination_names(denomination_id, name) VALUES('mar_rial', 'rials');
-INSERT INTO denomination_names(denomination_id, name) VALUES('mex_centavo', 'centavo');
-INSERT INTO denomination_names(denomination_id, name) VALUES('mex_centavo', 'centavos');
-INSERT INTO denomination_names(denomination_id, name) VALUES('mex_escudo', 'escudo');
-INSERT INTO denomination_names(denomination_id, name) VALUES('mex_escudo', 'escudos');
-INSERT INTO denomination_names(denomination_id, name) VALUES('mex_peso', 'peso');
-INSERT INTO denomination_names(denomination_id, name) VALUES('mex_peso', 'pesos');
-INSERT INTO denomination_names(denomination_id, name) VALUES('mex_real', 'real');
-INSERT INTO denomination_names(denomination_id, name) VALUES('mex_real', 'reales');
-INSERT INTO denomination_names(denomination_id, name) VALUES('mmr_anna', 'anna');
-INSERT INTO denomination_names(denomination_id, name) VALUES('mmr_anna', 'annas');
-INSERT INTO denomination_names(denomination_id, name) VALUES('mmr_kyat', 'kyat');
-INSERT INTO denomination_names(denomination_id, name) VALUES('mmr_rupee', 'rupee');
-INSERT INTO denomination_names(denomination_id, name) VALUES('mmr_rupee', 'rupees');
-INSERT INTO denomination_names(denomination_id, name) VALUES('mng_mongo', 'mongo');
-INSERT INTO denomination_names(denomination_id, name) VALUES('mng_tukhrik', 'tukhrik');
-INSERT INTO denomination_names(denomination_id, name) VALUES('nld_cents', 'cent');
-INSERT INTO denomination_names(denomination_id, name) VALUES('nld_cents', 'cents');
-INSERT INTO denomination_names(denomination_id, name) VALUES('nld_dukaat', 'dukaat');
-INSERT INTO denomination_names(denomination_id, name) VALUES('nld_gulden', 'gulden');
-INSERT INTO denomination_names(denomination_id, name) VALUES('nld_gulden', 'guldens');
-INSERT INTO denomination_names(denomination_id, name) VALUES('nor_krone', 'krone');
-INSERT INTO denomination_names(denomination_id, name) VALUES('nor_krone', 'kroner');
-INSERT INTO denomination_names(denomination_id, name) VALUES('nor_ore', 'ore');
-INSERT INTO denomination_names(denomination_id, name) VALUES('nor_skilling', 'skilling');
-INSERT INTO denomination_names(denomination_id, name) VALUES('nor_speciedaler', 'speciedaler');
-INSERT INTO denomination_names(denomination_id, name) VALUES('nor_speciedaler', 'speciedalers');
-INSERT INTO denomination_names(denomination_id, name) VALUES('npl_paisa', 'paisa');
-INSERT INTO denomination_names(denomination_id, name) VALUES('npl_rupee', 'rupee');
-INSERT INTO denomination_names(denomination_id, name) VALUES('npl_rupee', 'rupees');
-INSERT INTO denomination_names(denomination_id, name) VALUES('nzl_crown', 'crown');
-INSERT INTO denomination_names(denomination_id, name) VALUES('nzl_crown', 'crowns');
-INSERT INTO denomination_names(denomination_id, name) VALUES('nzl_florin', 'florin');
-INSERT INTO denomination_names(denomination_id, name) VALUES('nzl_florin', 'florins');
-INSERT INTO denomination_names(denomination_id, name) VALUES('nzl_penny', 'penny');
-INSERT INTO denomination_names(denomination_id, name) VALUES('nzl_penny', 'pence');
-INSERT INTO denomination_names(denomination_id, name) VALUES('nzl_shilling', 'shilling');
-INSERT INTO denomination_names(denomination_id, name) VALUES('nzl_shilling', 'shillings');
-INSERT INTO denomination_names(denomination_id, name) VALUES('pan_balboa', 'balboa');
-INSERT INTO denomination_names(denomination_id, name) VALUES('pan_balboa', 'balboas');
-INSERT INTO denomination_names(denomination_id, name) VALUES('pan_centesimo', 'centesimo');
-INSERT INTO denomination_names(denomination_id, name) VALUES('pan_centesimo', 'centesimos');
-INSERT INTO denomination_names(denomination_id, name) VALUES('per_dinero', 'dinero');
-INSERT INTO denomination_names(denomination_id, name) VALUES('per_dinero', 'dineros');
-INSERT INTO denomination_names(denomination_id, name) VALUES('per_escudo', 'escudo');
-INSERT INTO denomination_names(denomination_id, name) VALUES('per_escudo', 'escudos');
-INSERT INTO denomination_names(denomination_id, name) VALUES('per_libra', 'libra');
-INSERT INTO denomination_names(denomination_id, name) VALUES('per_libra', 'libras');
-INSERT INTO denomination_names(denomination_id, name) VALUES('per_peseta', 'peseta');
-INSERT INTO denomination_names(denomination_id, name) VALUES('per_peseta', 'pesetas');
-INSERT INTO denomination_names(denomination_id, name) VALUES('per_real', 'real');
-INSERT INTO denomination_names(denomination_id, name) VALUES('per_real', 'reales');
-INSERT INTO denomination_names(denomination_id, name) VALUES('per_sol', 'sol');
-INSERT INTO denomination_names(denomination_id, name) VALUES('per_sol', 'soles');
-INSERT INTO denomination_names(denomination_id, name) VALUES('phl_centavo', 'centavo');
-INSERT INTO denomination_names(denomination_id, name) VALUES('phl_centavo', 'centavos');
-INSERT INTO denomination_names(denomination_id, name) VALUES('phl_centimo', 'centimo');
-INSERT INTO denomination_names(denomination_id, name) VALUES('phl_centimo', 'centimos');
-INSERT INTO denomination_names(denomination_id, name) VALUES('phl_peso', 'peso');
-INSERT INTO denomination_names(denomination_id, name) VALUES('phl_peso', 'pesos');
-INSERT INTO denomination_names(denomination_id, name) VALUES('pol_zloty', 'zloty');
-INSERT INTO denomination_names(denomination_id, name) VALUES('pol_zloty', 'zlote');
-INSERT INTO denomination_names(denomination_id, name) VALUES('pol_zloty', 'zlotych');
-INSERT INTO denomination_names(denomination_id, name) VALUES('pol_zloty', 'zlotego');
-INSERT INTO denomination_names(denomination_id, name) VALUES('prt_centavo', 'centavo');
-INSERT INTO denomination_names(denomination_id, name) VALUES('prt_centavo', 'centavos');
-INSERT INTO denomination_names(denomination_id, name) VALUES('prt_escudo', 'escudo');
-INSERT INTO denomination_names(denomination_id, name) VALUES('prt_escudo', 'escudos');
-INSERT INTO denomination_names(denomination_id, name) VALUES('prt_real', 'real');
-INSERT INTO denomination_names(denomination_id, name) VALUES('prt_real', 'reis');
-INSERT INTO denomination_names(denomination_id, name) VALUES('pry_peso', 'peso');
-INSERT INTO denomination_names(denomination_id, name) VALUES('pry_peso', 'pesos');
-INSERT INTO denomination_names(denomination_id, name) VALUES('rou_banu', 'banu');
-INSERT INTO denomination_names(denomination_id, name) VALUES('rou_banu', 'bani');
-INSERT INTO denomination_names(denomination_id, name) VALUES('rou_leu', 'leu');
-INSERT INTO denomination_names(denomination_id, name) VALUES('rou_leu', 'lei');
-INSERT INTO denomination_names(denomination_id, name) VALUES('rus_kopek', 'kopek');
-INSERT INTO denomination_names(denomination_id, name) VALUES('rus_kopek', 'kopeks');
-INSERT INTO denomination_names(denomination_id, name) VALUES('rus_kopek', 'kopeck');
-INSERT INTO denomination_names(denomination_id, name) VALUES('rus_kopek', 'kopecks');
-INSERT INTO denomination_names(denomination_id, name) VALUES('rus_ruble', 'ruble');
-INSERT INTO denomination_names(denomination_id, name) VALUES('rus_ruble', 'rubles');
-INSERT INTO denomination_names(denomination_id, name) VALUES('sau_guinea', 'guinea');
-INSERT INTO denomination_names(denomination_id, name) VALUES('sau_guinea', 'guineas');
-INSERT INTO denomination_names(denomination_id, name) VALUES('sau_riyal', 'riyal');
-INSERT INTO denomination_names(denomination_id, name) VALUES('sau_riyal', 'riyals');
-INSERT INTO denomination_names(denomination_id, name) VALUES('sau_sovereign', 'sovereign');
-INSERT INTO denomination_names(denomination_id, name) VALUES('sau_sovereign', 'sovereigns');
-INSERT INTO denomination_names(denomination_id, name) VALUES('slv_centavo', 'centavo');
-INSERT INTO denomination_names(denomination_id, name) VALUES('slv_centavo', 'centavos');
-INSERT INTO denomination_names(denomination_id, name) VALUES('slv_colon', 'colon');
-INSERT INTO denomination_names(denomination_id, name) VALUES('slv_colon', 'colones');
-INSERT INTO denomination_names(denomination_id, name) VALUES('slv_peso', 'peso');
-INSERT INTO denomination_names(denomination_id, name) VALUES('slv_peso', 'pesos');
-INSERT INTO denomination_names(denomination_id, name) VALUES('srb_dinar', 'dinar');
-INSERT INTO denomination_names(denomination_id, name) VALUES('srb_dinar', 'dinara');
-INSERT INTO denomination_names(denomination_id, name) VALUES('srb_para', 'para');
-INSERT INTO denomination_names(denomination_id, name) VALUES('srb_para', 'pare');
-INSERT INTO denomination_names(denomination_id, name) VALUES('sur_gulden', 'gulden');
-INSERT INTO denomination_names(denomination_id, name) VALUES('sur_gulden', 'guldens');
-INSERT INTO denomination_names(denomination_id, name) VALUES('swe_carolin', 'carolin');
-INSERT INTO denomination_names(denomination_id, name) VALUES('swe_carolin', 'carolins');
-INSERT INTO denomination_names(denomination_id, name) VALUES('swe_dukat', 'dukat');
-INSERT INTO denomination_names(denomination_id, name) VALUES('swe_krona', 'krona');
-INSERT INTO denomination_names(denomination_id, name) VALUES('swe_krona', 'kronor');
-INSERT INTO denomination_names(denomination_id, name) VALUES('swe_ore', 'ore');
-INSERT INTO denomination_names(denomination_id, name) VALUES('swe_ore', 'oren');
-INSERT INTO denomination_names(denomination_id, name) VALUES('swe_riksdaler riksmynt', 'riksdaler riksmynt');
-INSERT INTO denomination_names(denomination_id, name) VALUES('syr_lira', 'lira');
-INSERT INTO denomination_names(denomination_id, name) VALUES('syr_lira', 'lire');
-INSERT INTO denomination_names(denomination_id, name) VALUES('syr_piastre', 'piastre');
-INSERT INTO denomination_names(denomination_id, name) VALUES('syr_piastre', 'piastres');
-INSERT INTO denomination_names(denomination_id, name) VALUES('syr_pound', 'pound');
-INSERT INTO denomination_names(denomination_id, name) VALUES('syr_pound', 'pounds');
-INSERT INTO denomination_names(denomination_id, name) VALUES('usa_bullion', 'bullion');
-INSERT INTO denomination_names(denomination_id, name) VALUES('usa_bullion', 'bullions');
-INSERT INTO denomination_names(denomination_id, name) VALUES('usa_cent', 'cent');
-INSERT INTO denomination_names(denomination_id, name) VALUES('usa_cent', 'cents');
-INSERT INTO denomination_names(denomination_id, name) VALUES('usa_dollar', 'dollar');
-INSERT INTO denomination_names(denomination_id, name) VALUES('usa_dollar', 'dollars');
-INSERT INTO denomination_names(denomination_id, name) VALUES('ven_bolivar', 'bolivar');
-INSERT INTO denomination_names(denomination_id, name) VALUES('ven_bolivar', 'bolivares');
-INSERT INTO denomination_names(denomination_id, name) VALUES('ven_centavo', 'centavo');
-INSERT INTO denomination_names(denomination_id, name) VALUES('ven_centavo', 'centavos');
-INSERT INTO denomination_names(denomination_id, name) VALUES('ven_centimo', 'centimo');
-INSERT INTO denomination_names(denomination_id, name) VALUES('ven_centimo', 'centimos');
-INSERT INTO denomination_names(denomination_id, name) VALUES('ven_real', 'real');
-INSERT INTO denomination_names(denomination_id, name) VALUES('ven_real', 'reales');
-INSERT INTO denomination_names(denomination_id, name) VALUES('ven_venezolano', 'venezolano');
-INSERT INTO denomination_names(denomination_id, name) VALUES('ven_venezolano', 'venezolanos');
-INSERT INTO denomination_names(denomination_id, name) VALUES('zaf_cent', 'cent');
-INSERT INTO denomination_names(denomination_id, name) VALUES('zaf_cent', 'cents');
-INSERT INTO denomination_names(denomination_id, name) VALUES('zaf_florin', 'florin');
-INSERT INTO denomination_names(denomination_id, name) VALUES('zaf_florin', 'florins');
-INSERT INTO denomination_names(denomination_id, name) VALUES('zaf_krugerrand', 'krugerrand');
-INSERT INTO denomination_names(denomination_id, name) VALUES('zaf_krugerrand', 'krugerrands');
-INSERT INTO denomination_names(denomination_id, name) VALUES('zaf_penny', 'penny');
-INSERT INTO denomination_names(denomination_id, name) VALUES('zaf_penny', 'pence');
-INSERT INTO denomination_names(denomination_id, name) VALUES('zaf_pond', 'pond');
-INSERT INTO denomination_names(denomination_id, name) VALUES('zaf_pond', 'ponds');
-INSERT INTO denomination_names(denomination_id, name) VALUES('zaf_pound', 'pound');
-INSERT INTO denomination_names(denomination_id, name) VALUES('zaf_pound', 'pounds');
-INSERT INTO denomination_names(denomination_id, name) VALUES('zaf_rand', 'rand');
-INSERT INTO denomination_names(denomination_id, name) VALUES('zaf_shilling', 'shilling');
-INSERT INTO denomination_names(denomination_id, name) VALUES('zaf_shilling', 'shillings');
-INSERT INTO denomination_names(denomination_id, name) VALUES('zaf_sovereign', 'sovereign');
-INSERT INTO denomination_names(denomination_id, name) VALUES('zaf_sovereign', 'sovereigns');
-INSERT INTO denomination_names(denomination_id, name) VALUES('ury_centesimo', 'centesimo');
-INSERT INTO denomination_names(denomination_id, name) VALUES('ury_centesimo', 'centesimos');
-INSERT INTO denomination_names(denomination_id, name) VALUES('ury_peso', 'peso');
-INSERT INTO denomination_names(denomination_id, name) VALUES('ury_peso', 'pesos');
-INSERT INTO denomination_names(denomination_id, name) VALUES('gtm_real', 'real');
-INSERT INTO denomination_names(denomination_id, name) VALUES('gtm_real', 'reales');
-INSERT INTO denomination_names(denomination_id, name) VALUES('gtm_peso', 'peso');
-INSERT INTO denomination_names(denomination_id, name) VALUES('gtm_peso', 'pesos');
-INSERT INTO denomination_names(denomination_id, name) VALUES('gtm_centimo', 'centimo');
-INSERT INTO denomination_names(denomination_id, name) VALUES('gtm_centimo', 'centimos');
-INSERT INTO denomination_names(denomination_id, name) VALUES('gtm_centavo', 'centavo');
-INSERT INTO denomination_names(denomination_id, name) VALUES('gtm_centavo', 'centavos');
-INSERT INTO denomination_names(denomination_id, name) VALUES('gtm_quetzal', 'quetzal');
-INSERT INTO denomination_names(denomination_id, name) VALUES('gtm_quetzal', 'quetzales');
-INSERT INTO denomination_names(denomination_id, name) VALUES('irn_shahi', 'shahi');
-INSERT INTO denomination_names(denomination_id, name) VALUES('irn_shahi', 'shahis');
-INSERT INTO denomination_names(denomination_id, name) VALUES('irn_qiran', 'qiran');
-INSERT INTO denomination_names(denomination_id, name) VALUES('irn_qiran', 'qirans');
-INSERT INTO denomination_names(denomination_id, name) VALUES('irn_dinar', 'dinar');
-INSERT INTO denomination_names(denomination_id, name) VALUES('irn_dinar', 'dinars');
-INSERT INTO denomination_names(denomination_id, name) VALUES('irn_toman', 'toman');
-INSERT INTO denomination_names(denomination_id, name) VALUES('irn_toman', 'tomans');
-INSERT INTO denomination_names(denomination_id, name) VALUES('irn_rial', 'rial');
-INSERT INTO denomination_names(denomination_id, name) VALUES('irn_rial', 'rials');
-INSERT INTO denomination_names(denomination_id, name) VALUES('irn_pahlavi', 'pahlavi');
-INSERT INTO denomination_names(denomination_id, name) VALUES('irn_pahlavi', 'pahlavis');
-INSERT INTO denomination_names(denomination_id, name) VALUES('isr_pruta', 'pruta');
-INSERT INTO denomination_names(denomination_id, name) VALUES('isr_pruta', 'prutas');
-INSERT INTO denomination_names(denomination_id, name) VALUES('isr_pound', 'pound');
-INSERT INTO denomination_names(denomination_id, name) VALUES('isr_pound', 'pounds');
-INSERT INTO denomination_names(denomination_id, name) VALUES('lie_thaler', 'thaler');
-INSERT INTO denomination_names(denomination_id, name) VALUES('lie_thaler', 'thalers');
-INSERT INTO denomination_names(denomination_id, name) VALUES('lie_krone', 'krone');
-INSERT INTO denomination_names(denomination_id, name) VALUES('lie_krone', 'kronen');
-INSERT INTO denomination_names(denomination_id, name) VALUES('lie_frank', 'frank');
-INSERT INTO denomination_names(denomination_id, name) VALUES('lie_frank', 'franken');
-INSERT INTO denomination_names(denomination_id, name) VALUES('tha_salung', 'salung');
-INSERT INTO denomination_names(denomination_id, name) VALUES('tha_baht', 'baht');
-INSERT INTO denomination_names(denomination_id, name) VALUES('tha_satang', 'satang');
-INSERT INTO denomination_names(denomination_id, name) VALUES('nfl_cent', 'cent');
-INSERT INTO denomination_names(denomination_id, name) VALUES('nfl_cent', 'cents');
-INSERT INTO denomination_names(denomination_id, name) VALUES('nfl_dollar', 'dollar');
-INSERT INTO denomination_names(denomination_id, name) VALUES('nfl_dollar', 'dollars');
-INSERT INTO denomination_names(denomination_id, name) VALUES('tur_para', 'para');
-INSERT INTO denomination_names(denomination_id, name) VALUES('tur_para', 'paras');
-INSERT INTO denomination_names(denomination_id, name) VALUES('tur_kurus', 'kurus');
-INSERT INTO denomination_names(denomination_id, name) VALUES('tur_kurus', 'kurush');
-INSERT INTO denomination_names(denomination_id, name) VALUES('tur_lira', 'lira');
-INSERT INTO denomination_names(denomination_id, name) VALUES('tur_lira', 'liras');
-INSERT INTO denomination_names(denomination_id, name) VALUES('tur_kurusmdl', 'kurus (monnaies de luxe)');
-INSERT INTO denomination_names(denomination_id, name) VALUES('tur_kurusmdl', 'kurus');
-INSERT INTO denomination_names(denomination_id, name) VALUES('tur_kurusmdl', 'kurush');
-INSERT INTO denomination_names(denomination_id, name) VALUES('uar_ghirsh', 'ghirsh');
-INSERT INTO denomination_names(denomination_id, name) VALUES('uar_pound', 'pound');
-INSERT INTO denomination_names(denomination_id, name) VALUES('uar_pound', 'pounds');
+INSERT INTO denominations(denomination_id, country_id, display_name, tags, series) VALUES
+('afg_abbasi', 'afg', 'abbasi', 'none', 'base'),
+('afg_afghani', 'afg', 'afghani', 'none', 'base'),
+('afg_habibi', 'afg', 'habibi', 'none', 'base'),
+('afg_qiran', 'afg', 'qiran', 'none', 'base'),
+('afg_rupee', 'afg', 'rupee', 'none', 'base'),
+('afg_sanar', 'afg', 'sanar', 'none', 'base'),
+('afg_tilla', 'afg', 'tilla', 'none', 'base'),
+('alb_frang ar', 'alb', 'frang ar', 'none', 'base'),
+('alb_lek', 'alb', 'lek', 'none', 'base'),
+('arg_argentino', 'arg', 'argentino', 'none', 'base'),
+('arg_centavo', 'arg', 'centavo', 'none', 'base'),
+('arg_peso', 'arg', 'peso', 'none', 'base'),
+('aus_crown', 'aus', 'crown', 'none', 'base'),
+('aus_florin', 'aus', 'florin', 'none', 'base'),
+('aus_penny', 'aus', 'penny', 'none', 'base'),
+('aus_shilling', 'aus', 'shilling', 'none', 'base'),
+('aus_sovereign', 'aus', 'sovereign', 'none', 'base'),
+('aut_dukat', 'aut', 'dukat', 'none', 'base'),
+('aut_florin', 'aut', 'florin', 'none', 'base'),
+('aut_kreuzer', 'aut', 'kreuzer', 'none', 'base'),
+('aut_krone', 'aut', 'krone', 'none', 'base'),
+('aut_schilling', 'aut', 'schilling', 'none', 'base'),
+('aut_vereinsthaler', 'aut', 'vereinsthaler', 'none', 'base'),
+('bel_centime', 'bel', 'centime', 'none', 'base'),
+('bel_franc', 'bel', 'franc', 'none', 'base'),
+('bgr_lev', 'bgr', 'lev', 'none', 'base'),
+('bgr_stotinka', 'bgr', 'stotinka', 'none', 'base'),
+('bmu_crown', 'bmu', 'crown', 'none', 'base'),
+('bol_boliviano', 'bol', 'boliviano', 'none', 'base'),
+('bol_centavo', 'bol', 'centavo', 'none', 'base'),
+('bol_escudo', 'bol', 'escudo', 'none', 'base'),
+('bol_melgarejo', 'bol', 'melgarejo', 'none', 'base'),
+('bol_onza', 'bol', 'onza', 'none', 'base'),
+('bol_sol', 'bol', 'sol', 'none', 'base'),
+('bra_real', 'bra', 'real', 'none', 'base'),
+('can_cent', 'can', 'cent', 'none', 'base'),
+('can_dollar', 'can', 'dollar', 'none', 'base'),
+('can_maple', 'can', 'maple', 'bullion', 'base'),
+('can_sovereign', 'can', 'sovereign', 'none', 'base'),
+('che_franc', 'che', 'franc', 'none', 'base'),
+('chl_centavo', 'chl', 'centavo', 'none', 'base'),
+('chl_decimo', 'chl', 'decimo', 'none', 'base'),
+('chl_peso', 'chl', 'peso', 'none', 'base'),
+('chn_cent', 'chn', 'cent', 'none', 'base'),
+('chn_chio', 'chn', 'chio', 'none', 'base'),
+('chn_dollar', 'chn', 'dollar', 'none', 'base'),
+('chn_yuan', 'chn', 'yuan', 'none', 'base'),
+('col_centavo', 'col', 'centavo', 'none', 'base'),
+('col_decimo', 'col', 'decimo', 'none', 'base'),
+('col_peso', 'col', 'peso', 'none', 'base'),
+('col_real', 'col', 'real', 'none', 'base'),
+('com_franc', 'com', 'franc', 'none', 'base'),
+('cri_centavo', 'cri', 'centavo', 'none', 'base'),
+('cri_colon', 'cri', 'colon', 'none', 'base'),
+('cri_escudo', 'cri', 'escudo', 'none', 'base'),
+('cri_onza', 'cri', 'onza', 'none', 'base'),
+('cri_peso', 'cri', 'peso', 'none', 'base'),
+('csk_dukat', 'csk', 'dukat', 'none', 'base'),
+('csk_koruna', 'csk', 'koruna', 'none', 'base'),
+('cub_centavo', 'cub', 'centavo', 'none', 'base'),
+('cub_peso', 'cub', 'peso', 'none', 'base'),
+('cuw_gulden', 'cuw', 'gulden', 'none', 'base'),
+('cyp_piastre', 'cyp', 'piastre', 'none', 'base'),
+('deu_mark', 'deu', 'mark', 'none', 'base'),
+('deu_pfennig', 'deu', 'pfennig', 'none', 'base'),
+('dnk_christian d\'or', 'dnk', 'christian d\'or', 'none', 'base'),
+('dnk_krone', 'dnk', 'krone', 'none', 'base'),
+('dnk_ore', 'dnk', 'ore', 'none', 'base'),
+('ecu_centavo', 'ecu', 'centavo', 'none', 'base'),
+('ecu_condor', 'ecu', 'condor', 'none', 'base'),
+('ecu_decimo', 'ecu', 'decimo', 'none', 'base'),
+('ecu_sucre', 'ecu', 'sucre', 'none', 'base'),
+('egy_ghirsh', 'egy', 'ghirsh', 'none', 'base'),
+('egy_pound', 'egy', 'pound', 'none', 'base'),
+('eri_centisimo', 'eri', 'centisimo', 'none', 'base'),
+('eri_lira', 'eri', 'lira', 'none', 'base'),
+('eri_tallero', 'eri', 'tallero', 'none', 'base'),
+('esp_centimo', 'esp', 'centimo', 'none', 'base'),
+('esp_escudo', 'esp', 'escudo', 'none', 'base'),
+('esp_peseta', 'esp', 'peseta', 'none', 'base'),
+('esp_real', 'esp', 'real', 'none', 'base'),
+('est_kroon', 'est', 'kroon', 'none', 'base'),
+('eth_birr', 'eth', 'birr', 'none', 'base'),
+('eth_gersh', 'eth', 'gersh', 'none', 'base'),
+('eth_santeem', 'eth', 'santeem', 'none', 'base'),
+('eth_wark', 'eth', 'wark', 'none', 'base'),
+('fin_markka', 'fin', 'markka', 'none', 'base'),
+('fin_pennia', 'fin', 'pennia', 'none', 'base'),
+('fji_florin', 'fji', 'florin', 'none', 'base'),
+('fji_penny', 'fji', 'penny', 'none', 'base'),
+('fji_shilling', 'fji', 'shilling', 'none', 'base'),
+('fra_centime', 'fra', 'centime', 'none', 'base'),
+('fra_franc', 'fra', 'franc', 'none', 'base'),
+('gbr_britannia', 'gbr', 'britannia', 'bullion', 'base'),
+('gbr_crown', 'gbr', 'crown', 'none', 'base'),
+('gbr_dollar', 'gbr', 'trade dollar', 'none', 'base'),
+('gbr_florin', 'gbr', 'florin', 'none', 'base'),
+('gbr_penny', 'gbr', 'penny', 'none', 'base'),
+('gbr_pound', 'gbr', 'pound', 'none', 'base'),
+('gbr_shilling', 'gbr', 'shilling', 'none', 'base'),
+('gbr_sovereign', 'gbr', 'sovereign', 'none', 'base'),
+('grc_drachma', 'grc', 'drachma', 'none', 'base'),
+('grc_lepton', 'grc', 'lepton', 'none', 'base'),
+('gtm_centavo', 'gtm', 'centavo', 'none', 'base'),
+('gtm_centimo', 'gtm', 'centimo', 'none', 'base'),
+('gtm_peso', 'gtm', 'peso', 'none', 'base'),
+('gtm_quetzal', 'gtm', 'quetzal', 'none', 'base'),
+('gtm_real', 'gtm', 'real', 'none', 'base'),
+('haw_cent', 'haw', 'cent', 'none', 'base'),
+('haw_dollar', 'haw', 'dollar', 'none', 'base'),
+('hkg_cent', 'hkg', 'cent', 'none', 'base'),
+('hkg_dollar', 'hkg', 'dollar', 'none', 'base'),
+('hnd_centavo', 'hnd', 'centavo', 'none', 'base'),
+('hnd_lempira', 'hnd', 'lempira', 'none', 'base'),
+('hnd_peso', 'hnd', 'peso', 'none', 'base'),
+('hti_centime', 'hti', 'centime', 'none', 'base'),
+('hti_gourde', 'hti', 'gourde', 'none', 'base'),
+('hun_dukat', 'hun', 'dukat', 'none', 'base'),
+('hun_forint', 'hun', 'forint', 'none', 'base'),
+('hun_korona', 'hun', 'korona', 'none', 'base'),
+('hun_krajczar', 'hun', 'krajczar', 'none', 'base'),
+('hun_pengo', 'hun', 'pengo', 'none', 'base'),
+('ind_anna', 'ind', 'anna', 'none', 'base'),
+('ind_mohur', 'ind', 'mohur', 'none', 'base'),
+('ind_rupee', 'ind', 'rupee', 'none', 'base'),
+('ind_sovereign', 'ind', 'sovereign', 'none', 'base'),
+('irl_crown', 'irl', 'crown', 'none', 'base'),
+('irl_florin', 'irl', 'florin', 'none', 'base'),
+('irl_shilling', 'irl', 'shilling', 'none', 'base'),
+('irn_dinar', 'irn', 'dinar', 'none', 'base'),
+('irn_pahlavi', 'irn', 'pahlavi', 'none', 'base'),
+('irn_qiran', 'irn', 'qiran', 'none', 'base'),
+('irn_rial', 'irn', 'rial', 'none', 'base'),
+('irn_shahi', 'irn', 'shahi', 'none', 'base'),
+('irn_toman', 'irn', 'toman', 'none', 'base'),
+('irq_fils', 'irq', 'fils', 'none', 'base'),
+('irq_riyal', 'irq', 'riyal', 'none', 'base'),
+('isl_krona', 'isl', 'krona', 'none', 'base'),
+('isr_pound', 'isr', 'pound', 'none', 'base'),
+('isr_pruta', 'isr', 'pruta', 'none', 'base'),
+('ita_centesimo', 'ita', 'centesimo', 'none', 'base'),
+('ita_lira', 'ita', 'lira', 'none', 'base'),
+('jam_penny', 'jam', 'penny', 'none', 'base'),
+('jpn_dollar', 'jpn', 'trade dollar', 'none', 'base'),
+('jpn_sen', 'jpn', 'sen', 'none', 'base'),
+('jpn_yen', 'jpn', 'yen', 'none', 'base'),
+('khm_centime', 'khm', 'centime', 'none', 'base'),
+('khm_franc', 'khm', 'franc', 'none', 'base'),
+('khm_piastre', 'khm', 'piastre', 'none', 'base'),
+('kor_chon', 'kor', 'chon', 'none', 'base'),
+('kor_whan', 'kor', 'whan', 'none', 'base'),
+('kor_won', 'kor', 'won', 'none', 'base'),
+('kor_yang', 'kor', 'yang', 'none', 'base'),
+('kwt_dinar', 'kwt', 'dinar', 'none', 'base'),
+('lbn_piastre', 'lbn', 'piastre', 'none', 'base'),
+('lbr_cent', 'lbr', 'cent', 'none', 'base'),
+('lbr_dollar', 'lbr', 'dollar', 'none', 'base'),
+('lie_frank', 'lie', 'frank', 'none', 'base'),
+('lie_krone', 'lie', 'krone', 'none', 'base'),
+('lie_thaler', 'lie', 'thaler', 'none', 'base'),
+('ltu_litas', 'ltu', 'litas', 'none', 'base'),
+('lux_franc', 'lux', 'franc', 'none', 'base'),
+('lva_lats', 'lva', 'lats', 'none', 'base'),
+('mac_pataca', 'mac', 'pataca', 'none', 'base'),
+('mar_dirham', 'mar', 'dirham', 'none', 'base'),
+('mar_franc', 'mar', 'franc', 'none', 'base'),
+('mar_rial', 'mar', 'rial', 'none', 'base'),
+('mex_centavo', 'mex', 'centavo', 'none', 'base'),
+('mex_escudo', 'mex', 'escudo', 'none', 'base'),
+('mex_peso', 'mex', 'peso', 'none', 'base'),
+('mex_real', 'mex', 'real', 'none', 'base'),
+('mmr_anna', 'mmr', 'anna', 'none', 'base'),
+('mmr_kyat', 'mmr', 'kyat', 'none', 'base'),
+('mmr_rupee', 'mmr', 'rupee', 'none', 'base'),
+('mng_mongo', 'mng', 'mongo', 'none', 'base'),
+('mng_tukhrik', 'mng', 'tukhrik', 'none', 'base'),
+('nfl_cent', 'nfl', 'cent', 'none', 'base'),
+('nfl_dollar', 'nfl', 'dollar', 'none', 'base'),
+('nld_cents', 'nld', 'cent', 'none', 'base'),
+('nld_dukaat', 'nld', 'dukaat', 'none', 'base'),
+('nld_gulden', 'nld', 'gulden', 'none', 'base'),
+('nor_krone', 'nor', 'krone', 'none', 'base'),
+('nor_ore', 'nor', 'ore', 'none', 'base'),
+('nor_skilling', 'nor', 'skilling', 'none', 'base'),
+('nor_speciedaler', 'nor', 'speciedaler', 'none', 'base'),
+('npl_paisa', 'npl', 'paisa', 'none', 'base'),
+('npl_rupee', 'npl', 'rupee', 'none', 'base'),
+('nzl_crown', 'nzl', 'crown', 'none', 'base'),
+('nzl_florin', 'nzl', 'florin', 'none', 'base'),
+('nzl_penny', 'nzl', 'penny', 'none', 'base'),
+('nzl_shilling', 'nzl', 'shilling', 'none', 'base'),
+('pan_balboa', 'pan', 'balboa', 'none', 'base'),
+('pan_centesimo', 'pan', 'centesimo', 'none', 'base'),
+('per_dinero', 'per', 'dinero', 'none', 'base'),
+('per_escudo', 'per', 'escudo', 'none', 'base'),
+('per_libra', 'per', 'libra', 'none', 'base'),
+('per_peseta', 'per', 'peseta', 'none', 'base'),
+('per_real', 'per', 'real', 'none', 'base'),
+('per_sol', 'per', 'sol', 'none', 'base'),
+('phl_centavo', 'phl', 'centavo', 'none', 'base'),
+('phl_centimo', 'phl', 'centimo', 'none', 'base'),
+('phl_peso', 'phl', 'peso', 'none', 'base'),
+('pol_zloty', 'pol', 'zloty', 'none', 'base'),
+('prt_centavo', 'prt', 'centavo', 'none', 'base'),
+('prt_escudo', 'prt', 'escudo', 'none', 'base'),
+('prt_real', 'prt', 'real', 'none', 'base'),
+('pry_peso', 'pry', 'peso', 'none', 'base'),
+('rou_banu', 'rou', 'banu', 'none', 'base'),
+('rou_leu', 'rou', 'leu', 'none', 'base'),
+('rus_kopek', 'rus', 'kopek', 'none', 'base'),
+('rus_ruble', 'rus', 'ruble', 'none', 'base'),
+('sau_guinea', 'sau', 'guinea', 'none', 'base'),
+('sau_riyal', 'sau', 'riyal', 'none', 'base'),
+('sau_sovereign', 'sau', 'sovereign', 'none', 'base'),
+('slv_centavo', 'slv', 'centavo', 'none', 'base'),
+('slv_colon', 'slv', 'colon', 'none', 'base'),
+('slv_peso', 'slv', 'peso', 'none', 'base'),
+('srb_dinar', 'srb', 'dinar', 'none', 'base'),
+('srb_para', 'srb', 'para', 'none', 'base'),
+('sur_gulden', 'sur', 'gulden', 'none', 'base'),
+('swe_carolin', 'swe', 'carolin', 'none', 'base'),
+('swe_dukat', 'swe', 'dukat', 'none', 'base'),
+('swe_krona', 'swe', 'krona', 'none', 'base'),
+('swe_ore', 'swe', 'ore', 'none', 'base'),
+('swe_riksdaler riksmynt', 'swe', 'riksdaler riksmynt', 'none', 'base'),
+('syr_lira', 'syr', 'lira', 'none', 'base'),
+('syr_piastre', 'syr', 'piastre', 'none', 'base'),
+('syr_pound', 'syr', 'pound', 'none', 'base'),
+('tha_baht', 'tha', 'baht', 'none', 'base'),
+('tha_salung', 'tha', 'salung', 'none', 'base'),
+('tha_satang', 'tha', 'satang', 'none', 'base'),
+('tur_kurus', 'tur', 'kurus', 'none', 'base'),
+('tur_kurusmdl', 'tur', 'kurus (monnaies de luxe)', 'none', 'base'),
+('tur_lira', 'tur', 'lira', 'none', 'base'),
+('tur_para', 'tur', 'para', 'none', 'base'),
+('uar_ghirsh', 'uar', 'ghirsh', 'none', 'base'),
+('uar_pound', 'uar', 'pound', 'none', 'base'),
+('ury_centesimo', 'ury', 'centesimo', 'none', 'base'),
+('ury_peso', 'ury', 'peso', 'none', 'base'),
+('usa_bullion', 'usa', 'bullion', 'bullion', 'base'),
+('usa_cent', 'usa', 'cent', 'none', 'base'),
+('usa_dollar', 'usa', 'dollar', 'none', 'base'),
+('ven_bolivar', 'ven', 'bolivar', 'none', 'base'),
+('ven_centavo', 'ven', 'centavo', 'none', 'base'),
+('ven_centimo', 'ven', 'centimo', 'none', 'base'),
+('ven_real', 'ven', 'real', 'none', 'base'),
+('ven_venezolano', 'ven', 'venezolano', 'none', 'base'),
+('zaf_cent', 'zaf', 'cent', 'none', 'base'),
+('zaf_florin', 'zaf', 'florin', 'none', 'base'),
+('zaf_krugerrand', 'zaf', 'krugerrand', 'bullion', 'base'),
+('zaf_penny', 'zaf', 'penny', 'none', 'base'),
+('zaf_pond', 'zaf', 'pond', 'none', 'base'),
+('zaf_pound', 'zaf', 'pound', 'none', 'base'),
+('zaf_rand', 'zaf', 'rand', 'none', 'base'),
+('zaf_shilling', 'zaf', 'shilling', 'none', 'base'),
+('zaf_sovereign', 'zaf', 'sovereign', 'none', 'base');
+INSERT INTO denomination_names(denomination_id, name) VALUES
+('afg_abbasi', 'abbasi'),
+('afg_abbasi', 'abbasis'),
+('afg_afghani', 'afghani'),
+('afg_afghani', 'afghanis'),
+('afg_habibi', 'habibi'),
+('afg_habibi', 'habibis'),
+('afg_qiran', 'qiran'),
+('afg_qiran', 'qirans'),
+('afg_rupee', 'rupee'),
+('afg_rupee', 'rupees'),
+('afg_sanar', 'sanar'),
+('afg_sanar', 'sanars'),
+('afg_tilla', 'tilla'),
+('afg_tilla', 'tillas'),
+('alb_frang ar', 'frang ar'),
+('alb_frang ar', 'franga ar'),
+('alb_lek', 'lek'),
+('arg_argentino', 'argentino'),
+('arg_argentino', 'argentinos'),
+('arg_centavo', 'centavo'),
+('arg_centavo', 'centavos'),
+('arg_peso', 'peso'),
+('arg_peso', 'pesos'),
+('aus_crown', 'crown'),
+('aus_crown', 'crowns'),
+('aus_florin', 'florin'),
+('aus_florin', 'florins'),
+('aus_penny', 'penny'),
+('aus_penny', 'pence'),
+('aus_shilling', 'shilling'),
+('aus_shilling', 'shillings'),
+('aus_sovereign', 'sovereign'),
+('aus_sovereign', 'sovereigns'),
+('aut_dukat', 'dukat'),
+('aut_dukat', 'dukaten'),
+('aut_florin', 'florin'),
+('aut_florin', 'florins'),
+('aut_kreuzer', 'kreuzer'),
+('aut_krone', 'krone'),
+('aut_krone', 'kronen'),
+('aut_schilling', 'schilling'),
+('aut_schilling', 'schillings'),
+('aut_vereinsthaler', 'vereinsthaler'),
+('bel_centime', 'centime'),
+('bel_centime', 'centimes'),
+('bel_franc', 'franc'),
+('bel_franc', 'francs'),
+('bgr_lev', 'lev'),
+('bgr_lev', 'leva'),
+('bgr_stotinka', 'stotinka'),
+('bgr_stotinka', 'stotinki'),
+('bmu_crown', 'crown'),
+('bmu_crown', 'crowns'),
+('bol_boliviano', 'boliviano'),
+('bol_boliviano', 'bolivianos'),
+('bol_centavo', 'centavo'),
+('bol_centavo', 'centavos'),
+('bol_centavo', 'centecimo'),
+('bol_centavo', 'centecimos'),
+('bol_escudo', 'escudo'),
+('bol_escudo', 'escudos'),
+('bol_melgarejo', 'melgarejo'),
+('bol_melgarejo', 'melgarejos'),
+('bol_onza', 'onza'),
+('bol_onza', 'onzas'),
+('bol_sol', 'sol'),
+('bol_sol', 'soles'),
+('bra_real', 'real'),
+('bra_real', 'reis'),
+('can_cent', 'cent'),
+('can_cent', 'cents'),
+('can_dollar', 'dollar'),
+('can_dollar', 'dollars'),
+('can_maple', 'maple'),
+('can_maple', 'maples'),
+('can_sovereign', 'sovereign'),
+('can_sovereign', 'sovereigns'),
+('che_franc', 'franc'),
+('che_franc', 'francs'),
+('chl_centavo', 'centavo'),
+('chl_centavo', 'centavos'),
+('chl_decimo', 'decimo'),
+('chl_decimo', 'decimos'),
+('chl_peso', 'peso'),
+('chl_peso', 'pesos'),
+('chn_cent', 'cent'),
+('chn_cent', 'cents'),
+('chn_chio', 'chio'),
+('chn_dollar', 'dollar'),
+('chn_dollar', 'dollars'),
+('chn_yuan', 'yuan'),
+('col_centavo', 'centavo'),
+('col_centavo', 'centavos'),
+('col_decimo', 'decimo'),
+('col_decimo', 'decimos'),
+('col_peso', 'peso'),
+('col_peso', 'pesos'),
+('col_real', 'real'),
+('col_real', 'reales'),
+('com_franc', 'franc'),
+('com_franc', 'francs'),
+('cri_centavo', 'centavo'),
+('cri_centavo', 'centavos'),
+('cri_colon', 'colon'),
+('cri_colon', 'colones'),
+('cri_escudo', 'escudo'),
+('cri_escudo', 'escudos'),
+('cri_onza', 'onza'),
+('cri_onza', 'onzas'),
+('cri_peso', 'peso'),
+('cri_peso', 'pesos'),
+('csk_dukat', 'dukat'),
+('csk_dukat', 'dukaty'),
+('csk_dukat', 'dukatu'),
+('csk_koruna', 'koruna'),
+('csk_koruna', 'korun'),
+('cub_centavo', 'centavo'),
+('cub_centavo', 'centavos'),
+('cub_peso', 'peso'),
+('cub_peso', 'pesos'),
+('cuw_gulden', 'gulden'),
+('cuw_gulden', 'guilder'),
+('cuw_gulden', 'florin'),
+('cyp_piastre', 'piastre'),
+('cyp_piastre', 'piastres'),
+('deu_mark', 'mark'),
+('deu_mark', 'marks'),
+('deu_pfennig', 'pfennig'),
+('deu_pfennig', 'pfennigs'),
+('dnk_christian d\'or', 'christian d\'or'),
+('dnk_christian d\'or', 'christian'),
+('dnk_christian d\'or', 'd\'or'),
+('dnk_krone', 'krone'),
+('dnk_krone', 'kroner'),
+('dnk_ore', 'ore'),
+('ecu_centavo', 'centavo'),
+('ecu_centavo', 'centavos'),
+('ecu_condor', 'condor'),
+('ecu_decimo', 'decimo'),
+('ecu_decimo', 'decimos'),
+('ecu_sucre', 'sucre'),
+('ecu_sucre', 'sucres'),
+('egy_ghirsh', 'ghirsh'),
+('egy_ghirsh', 'qirsh'),
+('egy_ghirsh', 'piastre'),
+('egy_pound', 'pound'),
+('egy_pound', 'pounds'),
+('eri_centisimo', 'centisimo'),
+('eri_centisimo', 'centesimi'),
+('eri_lira', 'lira'),
+('eri_lira', 'lire'),
+('eri_tallero', 'tallero'),
+('esp_centimo', 'centimo'),
+('esp_centimo', 'centimos'),
+('esp_escudo', 'escudo'),
+('esp_escudo', 'escudos'),
+('esp_peseta', 'peseta'),
+('esp_peseta', 'pesetas'),
+('esp_real', 'real'),
+('esp_real', 'reales'),
+('est_kroon', 'kroon'),
+('est_kroon', 'krooni'),
+('eth_birr', 'birr'),
+('eth_birr', 'birrs'),
+('eth_gersh', 'gersh'),
+('eth_santeem', 'santeem'),
+('eth_wark', 'wark'),
+('eth_wark', 'warks'),
+('fin_markka', 'markka'),
+('fin_markka', 'markaa'),
+('fin_pennia', 'pennia'),
+('fji_florin', 'florin'),
+('fji_penny', 'penny'),
+('fji_penny', 'pence'),
+('fji_shilling', 'shilling'),
+('fra_centime', 'centime'),
+('fra_centime', 'centimes'),
+('fra_franc', 'franc'),
+('fra_franc', 'francs'),
+('gbr_britannia', 'britannia'),
+('gbr_britannia', 'britannias'),
+('gbr_crown', 'crown'),
+('gbr_crown', 'crowns'),
+('gbr_dollar', 'trade dollar'),
+('gbr_dollar', 'dollar'),
+('gbr_dollar', 'dollars'),
+('gbr_dollar', 'trade dollars'),
+('gbr_florin', 'florin'),
+('gbr_florin', 'florins'),
+('gbr_penny', 'penny'),
+('gbr_penny', 'pence'),
+('gbr_pound', 'pound'),
+('gbr_pound', 'pounds'),
+('gbr_shilling', 'shilling'),
+('gbr_shilling', 'shillings'),
+('gbr_sovereign', 'sovereign'),
+('gbr_sovereign', 'sovereigns'),
+('grc_drachma', 'drachma'),
+('grc_drachma', 'drachmai'),
+('grc_drachma', 'drachmae'),
+('grc_lepton', 'lepton'),
+('grc_lepton', 'lepto'),
+('grc_lepton', 'lepta'),
+('gtm_centavo', 'centavo'),
+('gtm_centavo', 'centavos'),
+('gtm_centimo', 'centimo'),
+('gtm_centimo', 'centimos'),
+('gtm_peso', 'peso'),
+('gtm_peso', 'pesos'),
+('gtm_quetzal', 'quetzal'),
+('gtm_quetzal', 'quetzales'),
+('gtm_real', 'real'),
+('gtm_real', 'reales'),
+('haw_cent', 'cent'),
+('haw_cent', 'cents'),
+('haw_dollar', 'dollar'),
+('haw_dollar', 'dollars'),
+('hkg_cent', 'cent'),
+('hkg_cent', 'cents'),
+('hkg_dollar', 'dollar'),
+('hkg_dollar', 'dollars'),
+('hnd_centavo', 'centavo'),
+('hnd_centavo', 'centavos'),
+('hnd_lempira', 'lempira'),
+('hnd_lempira', 'lempiras'),
+('hnd_peso', 'peso'),
+('hnd_peso', 'pesos'),
+('hti_centime', 'centime'),
+('hti_centime', 'centimes'),
+('hti_gourde', 'gourde'),
+('hti_gourde', 'gourdes'),
+('hun_dukat', 'dukat'),
+('hun_dukat', 'ducat'),
+('hun_dukat', 'dukats'),
+('hun_dukat', 'ducats'),
+('hun_forint', 'forint'),
+('hun_korona', 'korona'),
+('hun_krajczar', 'krajczar'),
+('hun_pengo', 'pengo'),
+('ind_anna', 'anna'),
+('ind_anna', 'annas'),
+('ind_mohur', 'mohur'),
+('ind_mohur', 'mohurs'),
+('ind_rupee', 'rupee'),
+('ind_rupee', 'rupees'),
+('ind_sovereign', 'sovereign'),
+('ind_sovereign', 'sovereigns'),
+('irl_crown', 'crown'),
+('irl_crown', 'crowns'),
+('irl_florin', 'florin'),
+('irl_florin', 'florins'),
+('irl_shilling', 'shilling'),
+('irl_shilling', 'shillings'),
+('irn_dinar', 'dinar'),
+('irn_dinar', 'dinars'),
+('irn_pahlavi', 'pahlavi'),
+('irn_pahlavi', 'pahlavis'),
+('irn_qiran', 'qiran'),
+('irn_qiran', 'qirans'),
+('irn_rial', 'rial'),
+('irn_rial', 'rials'),
+('irn_shahi', 'shahi'),
+('irn_shahi', 'shahis'),
+('irn_toman', 'toman'),
+('irn_toman', 'tomans'),
+('irq_fils', 'fils'),
+('irq_riyal', 'riyal'),
+('irq_riyal', 'riyals'),
+('isl_krona', 'krona'),
+('isl_krona', 'kronur'),
+('isr_pound', 'pound'),
+('isr_pound', 'pounds'),
+('isr_pruta', 'pruta'),
+('isr_pruta', 'prutas'),
+('ita_centesimo', 'centesimo'),
+('ita_centesimo', 'centesimi'),
+('ita_centesimo', 'centesimis'),
+('ita_lira', 'lira'),
+('ita_lira', 'lire'),
+('ita_lira', 'liras'),
+('jam_penny', 'penny'),
+('jam_penny', 'pence'),
+('jpn_dollar', 'trade dollar'),
+('jpn_dollar', 'dollar'),
+('jpn_dollar', 'dollars'),
+('jpn_dollar', 'trade dollars'),
+('jpn_sen', 'sen'),
+('jpn_yen', 'yen'),
+('khm_centime', 'centime'),
+('khm_centime', 'centimes'),
+('khm_franc', 'franc'),
+('khm_franc', 'francs'),
+('khm_piastre', 'piastre'),
+('khm_piastre', 'piastres'),
+('kor_chon', 'chon'),
+('kor_whan', 'whan'),
+('kor_won', 'won'),
+('kor_yang', 'yang'),
+('kwt_dinar', 'dinar'),
+('kwt_dinar', 'dinars'),
+('lbn_piastre', 'piastre'),
+('lbn_piastre', 'piastres'),
+('lbr_cent', 'cent'),
+('lbr_cent', 'cents'),
+('lbr_dollar', 'dollar'),
+('lbr_dollar', 'dollars'),
+('lie_frank', 'frank'),
+('lie_frank', 'franken'),
+('lie_krone', 'krone'),
+('lie_krone', 'kronen'),
+('lie_thaler', 'thaler'),
+('lie_thaler', 'thalers'),
+('ltu_litas', 'litas'),
+('ltu_litas', 'litu'),
+('ltu_litas', 'litai'),
+('lux_franc', 'franc'),
+('lux_franc', 'francs'),
+('lux_franc', 'frang'),
+('lux_franc', 'frangs'),
+('lva_lats', 'lats'),
+('lva_lats', 'lati'),
+('mac_pataca', 'pataca'),
+('mac_pataca', 'patacas'),
+('mar_dirham', 'dirham'),
+('mar_franc', 'franc'),
+('mar_franc', 'francs'),
+('mar_rial', 'rial'),
+('mar_rial', 'rials'),
+('mex_centavo', 'centavo'),
+('mex_centavo', 'centavos'),
+('mex_escudo', 'escudo'),
+('mex_escudo', 'escudos'),
+('mex_peso', 'peso'),
+('mex_peso', 'pesos'),
+('mex_real', 'real'),
+('mex_real', 'reales'),
+('mmr_anna', 'anna'),
+('mmr_anna', 'annas'),
+('mmr_kyat', 'kyat'),
+('mmr_rupee', 'rupee'),
+('mmr_rupee', 'rupees'),
+('mng_mongo', 'mongo'),
+('mng_tukhrik', 'tukhrik'),
+('nfl_cent', 'cent'),
+('nfl_cent', 'cents'),
+('nfl_dollar', 'dollar'),
+('nfl_dollar', 'dollars'),
+('nld_cents', 'cent'),
+('nld_cents', 'cents'),
+('nld_dukaat', 'dukaat'),
+('nld_gulden', 'gulden'),
+('nld_gulden', 'guldens'),
+('nor_krone', 'krone'),
+('nor_krone', 'kroner'),
+('nor_ore', 'ore'),
+('nor_skilling', 'skilling'),
+('nor_speciedaler', 'speciedaler'),
+('nor_speciedaler', 'speciedalers'),
+('npl_paisa', 'paisa'),
+('npl_rupee', 'rupee'),
+('npl_rupee', 'rupees'),
+('nzl_crown', 'crown'),
+('nzl_crown', 'crowns'),
+('nzl_florin', 'florin'),
+('nzl_florin', 'florins'),
+('nzl_penny', 'penny'),
+('nzl_penny', 'pence'),
+('nzl_shilling', 'shilling'),
+('nzl_shilling', 'shillings'),
+('pan_balboa', 'balboa'),
+('pan_balboa', 'balboas'),
+('pan_centesimo', 'centesimo'),
+('pan_centesimo', 'centesimos'),
+('per_dinero', 'dinero'),
+('per_dinero', 'dineros'),
+('per_escudo', 'escudo'),
+('per_escudo', 'escudos'),
+('per_libra', 'libra'),
+('per_libra', 'libras'),
+('per_peseta', 'peseta'),
+('per_peseta', 'pesetas'),
+('per_real', 'real'),
+('per_real', 'reales'),
+('per_sol', 'sol'),
+('per_sol', 'soles'),
+('phl_centavo', 'centavo'),
+('phl_centavo', 'centavos'),
+('phl_centimo', 'centimo'),
+('phl_centimo', 'centimos'),
+('phl_peso', 'peso'),
+('phl_peso', 'pesos'),
+('pol_zloty', 'zloty'),
+('pol_zloty', 'zlote'),
+('pol_zloty', 'zlotych'),
+('pol_zloty', 'zlotego'),
+('prt_centavo', 'centavo'),
+('prt_centavo', 'centavos'),
+('prt_escudo', 'escudo'),
+('prt_escudo', 'escudos'),
+('prt_real', 'real'),
+('prt_real', 'reis'),
+('pry_peso', 'peso'),
+('pry_peso', 'pesos'),
+('rou_banu', 'banu'),
+('rou_banu', 'bani'),
+('rou_leu', 'leu'),
+('rou_leu', 'lei'),
+('rus_kopek', 'kopek'),
+('rus_kopek', 'kopeks'),
+('rus_kopek', 'kopeck'),
+('rus_kopek', 'kopecks'),
+('rus_ruble', 'ruble'),
+('rus_ruble', 'rubles'),
+('sau_guinea', 'guinea'),
+('sau_guinea', 'guineas'),
+('sau_riyal', 'riyal'),
+('sau_riyal', 'riyals'),
+('sau_sovereign', 'sovereign'),
+('sau_sovereign', 'sovereigns'),
+('slv_centavo', 'centavo'),
+('slv_centavo', 'centavos'),
+('slv_colon', 'colon'),
+('slv_colon', 'colones'),
+('slv_peso', 'peso'),
+('slv_peso', 'pesos'),
+('srb_dinar', 'dinar'),
+('srb_dinar', 'dinara'),
+('srb_para', 'para'),
+('srb_para', 'pare'),
+('sur_gulden', 'gulden'),
+('sur_gulden', 'guldens'),
+('swe_carolin', 'carolin'),
+('swe_carolin', 'carolins'),
+('swe_dukat', 'dukat'),
+('swe_krona', 'krona'),
+('swe_krona', 'kronor'),
+('swe_ore', 'ore'),
+('swe_ore', 'oren'),
+('swe_riksdaler riksmynt', 'riksdaler riksmynt'),
+('syr_lira', 'lira'),
+('syr_lira', 'lire'),
+('syr_piastre', 'piastre'),
+('syr_piastre', 'piastres'),
+('syr_pound', 'pound'),
+('syr_pound', 'pounds'),
+('tha_baht', 'baht'),
+('tha_salung', 'salung'),
+('tha_satang', 'satang'),
+('tur_kurus', 'kurus'),
+('tur_kurus', 'kurush'),
+('tur_kurusmdl', 'kurus (monnaies de luxe)'),
+('tur_kurusmdl', 'kurus'),
+('tur_kurusmdl', 'kurush'),
+('tur_lira', 'lira'),
+('tur_lira', 'liras'),
+('tur_para', 'para'),
+('tur_para', 'paras'),
+('uar_ghirsh', 'ghirsh'),
+('uar_pound', 'pound'),
+('uar_pound', 'pounds'),
+('ury_centesimo', 'centesimo'),
+('ury_centesimo', 'centesimos'),
+('ury_peso', 'peso'),
+('ury_peso', 'pesos'),
+('usa_bullion', 'bullion'),
+('usa_bullion', 'bullions'),
+('usa_cent', 'cent'),
+('usa_cent', 'cents'),
+('usa_dollar', 'dollar'),
+('usa_dollar', 'dollars'),
+('ven_bolivar', 'bolivar'),
+('ven_bolivar', 'bolivares'),
+('ven_centavo', 'centavo'),
+('ven_centavo', 'centavos'),
+('ven_centimo', 'centimo'),
+('ven_centimo', 'centimos'),
+('ven_real', 'real'),
+('ven_real', 'reales'),
+('ven_venezolano', 'venezolano'),
+('ven_venezolano', 'venezolanos'),
+('zaf_cent', 'cent'),
+('zaf_cent', 'cents'),
+('zaf_florin', 'florin'),
+('zaf_florin', 'florins'),
+('zaf_krugerrand', 'krugerrand'),
+('zaf_krugerrand', 'krugerrands'),
+('zaf_penny', 'penny'),
+('zaf_penny', 'pence'),
+('zaf_pond', 'pond'),
+('zaf_pond', 'ponds'),
+('zaf_pound', 'pound'),
+('zaf_pound', 'pounds'),
+('zaf_rand', 'rand'),
+('zaf_shilling', 'shilling'),
+('zaf_shilling', 'shillings'),
+('zaf_sovereign', 'sovereign'),
+('zaf_sovereign', 'sovereigns');

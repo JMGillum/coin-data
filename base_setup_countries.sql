@@ -1,442 +1,444 @@
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('afg', 'afghanistan', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('alb', 'albania', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('arg', 'argentina', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('aus', 'australia', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('aut', 'austria', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('bel', 'belgium', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('bgr', 'bulgaria', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('bmu', 'bermuda', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('bol', 'bolivia', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('bra', 'brazil', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('can', 'canada', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('che', 'switzerland', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('chl', 'chile', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('chn', 'china', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('col', 'colombia', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('com', 'comoros', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('cri', 'costa rica', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('csk', 'czechoslovakia', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('cub', 'cuba', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('cuw', 'curacao', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('cyp', 'Cyprus', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('deu', 'germany', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('dnk', 'denmark', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('ecu', 'ecuador', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('egy', 'egypt', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('eri', 'eritrea', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('esp', 'spain', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('est', 'estonia', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('eth', 'ethiopia', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('fin', 'finland', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('fji', 'fiji', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('fra', 'france', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('gbr', 'great britain', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('grc', 'greece', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('gtm', 'guatemala', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('haw', 'hawaii', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('hkg', 'hong kong', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('hnd', 'honduras', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('hti', 'haiti', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('hun', 'hungary', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('ind', 'india', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('irl', 'ireland', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('irn', 'iran', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('irq', 'iraq', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('isl', 'iceland', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('isr', 'israel', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('ita', 'italy', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('jam', 'jamaica', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('jpn', 'japan', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('khm', 'cambodia', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('kor', 'korea', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('kwt', 'kuwait', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('lbn', 'lebanon', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('lbr', 'liberia', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('lie', 'liechtenstein', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('ltu', 'lithuania', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('lux', 'luxembourg', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('lva', 'latvia', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('mac', 'macau', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('mar', 'morocco', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('mex', 'mexico', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('mmr', 'myanmar', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('mng', 'mongolia', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('nfl', 'newfoundland', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('nld', 'netherlands, the', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('nor', 'norway', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('npl', 'nepal', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('nzl', 'new zealand', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('pan', 'panama', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('per', 'peru', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('phl', 'philippines', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('pol', 'poland', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('prt', 'portugal', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('pry', 'paraguay', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('rou', 'romania', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('rus', 'russia', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('sau', 'saudi arabia', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('slv', 'el salvador', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('srb', 'serbia', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('sur', 'suriname', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('swe', 'sweden', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('syr', 'syria', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('tha', 'thailand', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('tur', 'turkey', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('uar', 'united arab republic', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('ury', 'uruguay', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('usa', 'united states of america', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('ven', 'venezuela', 'none', "base");
-INSERT INTO countries(country_id, display_name, tags, series) VALUES('zaf', 'south africa', 'none', "base");
-INSERT INTO country_names(country_id, name) VALUES('afg', 'afghan');
-INSERT INTO country_names(country_id, name) VALUES('afg', 'afghani');
-INSERT INTO country_names(country_id, name) VALUES('afg', 'afghanistan');
-INSERT INTO country_names(country_id, name) VALUES('afg', 'afghanistani');
-INSERT INTO country_names(country_id, name) VALUES('afg', 'islamic emirate of afghanistan');
-INSERT INTO country_names(country_id, name) VALUES('alb', 'albania');
-INSERT INTO country_names(country_id, name) VALUES('alb', 'albanian');
-INSERT INTO country_names(country_id, name) VALUES('alb', 'republic of albania');
-INSERT INTO country_names(country_id, name) VALUES('alb', 'republika e shqiperise');
-INSERT INTO country_names(country_id, name) VALUES('alb', 'shqiperise');
-INSERT INTO country_names(country_id, name) VALUES('arg', 'argentina');
-INSERT INTO country_names(country_id, name) VALUES('arg', 'argentine');
-INSERT INTO country_names(country_id, name) VALUES('arg', 'argentine republic');
-INSERT INTO country_names(country_id, name) VALUES('arg', 'republica argentina');
-INSERT INTO country_names(country_id, name) VALUES('aus', 'australia');
-INSERT INTO country_names(country_id, name) VALUES('aus', 'australian');
-INSERT INTO country_names(country_id, name) VALUES('aus', 'commonwealth of autralia');
-INSERT INTO country_names(country_id, name) VALUES('aut', 'austria');
-INSERT INTO country_names(country_id, name) VALUES('aut', 'austrian');
-INSERT INTO country_names(country_id, name) VALUES('aut', 'osterreich');
-INSERT INTO country_names(country_id, name) VALUES('aut', 'republic of austria');
-INSERT INTO country_names(country_id, name) VALUES('aut', 'republik osterreich');
-INSERT INTO country_names(country_id, name) VALUES('bel', 'belgian');
-INSERT INTO country_names(country_id, name) VALUES('bel', 'belgie');
-INSERT INTO country_names(country_id, name) VALUES('bel', 'belgien');
-INSERT INTO country_names(country_id, name) VALUES('bel', 'belgique');
-INSERT INTO country_names(country_id, name) VALUES('bel', 'belgium');
-INSERT INTO country_names(country_id, name) VALUES('bel', 'kingdom of belgium');
-INSERT INTO country_names(country_id, name) VALUES('bgr', 'bulgaria');
-INSERT INTO country_names(country_id, name) VALUES('bgr', 'bulgarian');
-INSERT INTO country_names(country_id, name) VALUES('bgr', 'bulgariya');
-INSERT INTO country_names(country_id, name) VALUES('bgr', 'republic of bulgaria');
-INSERT INTO country_names(country_id, name) VALUES('bgr', 'republika bulgariya');
-INSERT INTO country_names(country_id, name) VALUES('bmu', 'bermuda');
-INSERT INTO country_names(country_id, name) VALUES('bmu', 'bermudian');
-INSERT INTO country_names(country_id, name) VALUES('bmu', 'bermy');
-INSERT INTO country_names(country_id, name) VALUES('bol', 'bolivia');
-INSERT INTO country_names(country_id, name) VALUES('bol', 'bolivian');
-INSERT INTO country_names(country_id, name) VALUES('bol', 'estada plurinacional de bolivia');
-INSERT INTO country_names(country_id, name) VALUES('bol', 'plurinational state of bolivia');
-INSERT INTO country_names(country_id, name) VALUES('bra', 'brasil');
-INSERT INTO country_names(country_id, name) VALUES('bra', 'brazil');
-INSERT INTO country_names(country_id, name) VALUES('bra', 'brazilian');
-INSERT INTO country_names(country_id, name) VALUES('bra', 'federative republic of brazil');
-INSERT INTO country_names(country_id, name) VALUES('bra', 'republic of brazil');
-INSERT INTO country_names(country_id, name) VALUES('bra', 'republica federativa do brasil');
-INSERT INTO country_names(country_id, name) VALUES('can', 'canada');
-INSERT INTO country_names(country_id, name) VALUES('can', 'canadian');
-INSERT INTO country_names(country_id, name) VALUES('che', 'confoederatio helvetica');
-INSERT INTO country_names(country_id, name) VALUES('che', 'helvetia');
-INSERT INTO country_names(country_id, name) VALUES('che', 'swiss');
-INSERT INTO country_names(country_id, name) VALUES('che', 'switzerland');
-INSERT INTO country_names(country_id, name) VALUES('chl', 'chile');
-INSERT INTO country_names(country_id, name) VALUES('chl', 'republic of chile');
-INSERT INTO country_names(country_id, name) VALUES('chl', 'republica de chile');
-INSERT INTO country_names(country_id, name) VALUES('chn', 'china');
-INSERT INTO country_names(country_id, name) VALUES('chn', 'chinese');
-INSERT INTO country_names(country_id, name) VALUES('chn', "people's republic of china");
-INSERT INTO country_names(country_id, name) VALUES('chn', 'peoples republic of china');
-INSERT INTO country_names(country_id, name) VALUES('chn', 'republic of china');
-INSERT INTO country_names(country_id, name) VALUES('col', 'colombia');
-INSERT INTO country_names(country_id, name) VALUES('col', 'colombian');
-INSERT INTO country_names(country_id, name) VALUES('col', 'republic of colombia');
-INSERT INTO country_names(country_id, name) VALUES('col', 'republica de colombia');
-INSERT INTO country_names(country_id, name) VALUES('com', 'comores');
-INSERT INTO country_names(country_id, name) VALUES('com', 'comoros');
-INSERT INTO country_names(country_id, name) VALUES('com', 'komori');
-INSERT INTO country_names(country_id, name) VALUES('com', 'udzima wa komori');
-INSERT INTO country_names(country_id, name) VALUES('com', 'union des comores');
-INSERT INTO country_names(country_id, name) VALUES('com', 'union of the comoros');
-INSERT INTO country_names(country_id, name) VALUES('cri', 'costa rica');
-INSERT INTO country_names(country_id, name) VALUES('cri', 'costa rican');
-INSERT INTO country_names(country_id, name) VALUES('cri', 'republic of costa rica');
-INSERT INTO country_names(country_id, name) VALUES('cri', 'republica de costa rica');
-INSERT INTO country_names(country_id, name) VALUES('csk', 'ceskoslovensko');
-INSERT INTO country_names(country_id, name) VALUES('csk', 'czechoslovakia');
-INSERT INTO country_names(country_id, name) VALUES('csk', 'czechoslovakian');
-INSERT INTO country_names(country_id, name) VALUES('cub', 'cuba');
-INSERT INTO country_names(country_id, name) VALUES('cub', 'cuban');
-INSERT INTO country_names(country_id, name) VALUES('cub', 'republic of cuba');
-INSERT INTO country_names(country_id, name) VALUES('cub', 'republica de cuba');
-INSERT INTO country_names(country_id, name) VALUES('cuw', 'country of curacao');
-INSERT INTO country_names(country_id, name) VALUES('cuw', 'curacao');
-INSERT INTO country_names(country_id, name) VALUES('cuw', 'korsou');
-INSERT INTO country_names(country_id, name) VALUES('cuw', 'land curacao');
-INSERT INTO country_names(country_id, name) VALUES('cuw', 'pais korsou');
-INSERT INTO country_names(country_id, name) VALUES('cyp', 'cypriot');
-INSERT INTO country_names(country_id, name) VALUES('cyp', 'Cyprus');
-INSERT INTO country_names(country_id, name) VALUES('cyp', 'republic of cyprus');
-INSERT INTO country_names(country_id, name) VALUES('deu', 'deutschland');
-INSERT INTO country_names(country_id, name) VALUES('deu', 'german');
-INSERT INTO country_names(country_id, name) VALUES('deu', 'germany');
-INSERT INTO country_names(country_id, name) VALUES('dnk', 'danish');
-INSERT INTO country_names(country_id, name) VALUES('dnk', 'danmark');
-INSERT INTO country_names(country_id, name) VALUES('dnk', 'denmark');
-INSERT INTO country_names(country_id, name) VALUES('ecu', 'ecuador');
-INSERT INTO country_names(country_id, name) VALUES('ecu', 'ecuadorian');
-INSERT INTO country_names(country_id, name) VALUES('ecu', 'republic of ecuador');
-INSERT INTO country_names(country_id, name) VALUES('ecu', 'republica del ecuador');
-INSERT INTO country_names(country_id, name) VALUES('egy', 'arab republic of egypt');
-INSERT INTO country_names(country_id, name) VALUES('egy', 'egypt');
-INSERT INTO country_names(country_id, name) VALUES('egy', 'egyptian');
-INSERT INTO country_names(country_id, name) VALUES('eri', 'eritrea');
-INSERT INTO country_names(country_id, name) VALUES('eri', 'eritrean');
-INSERT INTO country_names(country_id, name) VALUES('eri', 'state of eritrea');
-INSERT INTO country_names(country_id, name) VALUES('esp', 'espana');
-INSERT INTO country_names(country_id, name) VALUES('esp', 'kingdom of spain');
-INSERT INTO country_names(country_id, name) VALUES('esp', 'reino de espana');
-INSERT INTO country_names(country_id, name) VALUES('esp', 'spain');
-INSERT INTO country_names(country_id, name) VALUES('esp', 'spanish');
-INSERT INTO country_names(country_id, name) VALUES('est', 'eesti');
-INSERT INTO country_names(country_id, name) VALUES('est', 'eesti vabariik');
-INSERT INTO country_names(country_id, name) VALUES('est', 'estonia');
-INSERT INTO country_names(country_id, name) VALUES('est', 'estonian');
-INSERT INTO country_names(country_id, name) VALUES('est', 'republic of estonia');
-INSERT INTO country_names(country_id, name) VALUES('eth', 'ethiopia');
-INSERT INTO country_names(country_id, name) VALUES('eth', 'ethiopian');
-INSERT INTO country_names(country_id, name) VALUES('eth', 'federal democratic republic of ethiopia');
-INSERT INTO country_names(country_id, name) VALUES('fin', 'finland');
-INSERT INTO country_names(country_id, name) VALUES('fin', 'finnish');
-INSERT INTO country_names(country_id, name) VALUES('fin', 'republic of finland');
-INSERT INTO country_names(country_id, name) VALUES('fin', 'republiken finland');
-INSERT INTO country_names(country_id, name) VALUES('fin', 'suomen tasavalta');
-INSERT INTO country_names(country_id, name) VALUES('fin', 'suomi');
-INSERT INTO country_names(country_id, name) VALUES('fji', 'fiji');
-INSERT INTO country_names(country_id, name) VALUES('fji', 'fijian');
-INSERT INTO country_names(country_id, name) VALUES('fji', 'republic of fiji');
-INSERT INTO country_names(country_id, name) VALUES('fra', 'francais');
-INSERT INTO country_names(country_id, name) VALUES('fra', 'francaise');
-INSERT INTO country_names(country_id, name) VALUES('fra', 'france');
-INSERT INTO country_names(country_id, name) VALUES('fra', 'french');
-INSERT INTO country_names(country_id, name) VALUES('gbr', 'britain');
-INSERT INTO country_names(country_id, name) VALUES('gbr', 'british');
-INSERT INTO country_names(country_id, name) VALUES('gbr', 'great britain');
-INSERT INTO country_names(country_id, name) VALUES('grc', 'elliniki dimokratia');
-INSERT INTO country_names(country_id, name) VALUES('grc', 'greece');
-INSERT INTO country_names(country_id, name) VALUES('grc', 'greek');
-INSERT INTO country_names(country_id, name) VALUES('grc', 'hellenic republic');
-INSERT INTO country_names(country_id, name) VALUES('gtm', 'guatemala');
-INSERT INTO country_names(country_id, name) VALUES('gtm', 'guatemalan');
-INSERT INTO country_names(country_id, name) VALUES('gtm', 'republic of guatemala');
-INSERT INTO country_names(country_id, name) VALUES('gtm', 'republica de guatemala');
-INSERT INTO country_names(country_id, name) VALUES('haw', 'hawaii');
-INSERT INTO country_names(country_id, name) VALUES('haw', 'hawaiian');
-INSERT INTO country_names(country_id, name) VALUES('hkg', 'hk');
-INSERT INTO country_names(country_id, name) VALUES('hkg', 'hong kong');
-INSERT INTO country_names(country_id, name) VALUES('hnd', 'honduras');
-INSERT INTO country_names(country_id, name) VALUES('hnd', 'republic of honduras');
-INSERT INTO country_names(country_id, name) VALUES('hnd', 'republica de honduras');
-INSERT INTO country_names(country_id, name) VALUES('hti', 'ayiti');
-INSERT INTO country_names(country_id, name) VALUES('hti', 'haiti');
-INSERT INTO country_names(country_id, name) VALUES('hti', 'haitian');
-INSERT INTO country_names(country_id, name) VALUES('hti', 'repiblik d ayiti');
-INSERT INTO country_names(country_id, name) VALUES('hti', 'republic of haiti');
-INSERT INTO country_names(country_id, name) VALUES('hun', 'hungarian');
-INSERT INTO country_names(country_id, name) VALUES('hun', 'hungary');
-INSERT INTO country_names(country_id, name) VALUES('hun', 'magyarorszag');
-INSERT INTO country_names(country_id, name) VALUES('ind', 'india');
-INSERT INTO country_names(country_id, name) VALUES('ind', 'indian');
-INSERT INTO country_names(country_id, name) VALUES('ind', 'republic of india');
-INSERT INTO country_names(country_id, name) VALUES('irl', 'eire');
-INSERT INTO country_names(country_id, name) VALUES('irl', 'ireland');
-INSERT INTO country_names(country_id, name) VALUES('irl', 'irish');
-INSERT INTO country_names(country_id, name) VALUES('irl', 'republic of ireland');
-INSERT INTO country_names(country_id, name) VALUES('irn', 'iran');
-INSERT INTO country_names(country_id, name) VALUES('irn', 'irani');
-INSERT INTO country_names(country_id, name) VALUES('irn', 'islamic republic of iran');
-INSERT INTO country_names(country_id, name) VALUES('irn', 'republic of iran');
-INSERT INTO country_names(country_id, name) VALUES('irq', 'iraq');
-INSERT INTO country_names(country_id, name) VALUES('irq', 'iraqi');
-INSERT INTO country_names(country_id, name) VALUES('irq', 'republic of iraq');
-INSERT INTO country_names(country_id, name) VALUES('isl', 'iceland');
-INSERT INTO country_names(country_id, name) VALUES('isl', 'icelandic');
-INSERT INTO country_names(country_id, name) VALUES('isl', 'icelandish');
-INSERT INTO country_names(country_id, name) VALUES('isl', 'island');
-INSERT INTO country_names(country_id, name) VALUES('isr', 'israel');
-INSERT INTO country_names(country_id, name) VALUES('isr', 'israeli');
-INSERT INTO country_names(country_id, name) VALUES('isr', 'state of israel');
-INSERT INTO country_names(country_id, name) VALUES('ita', 'italian');
-INSERT INTO country_names(country_id, name) VALUES('ita', 'italy');
-INSERT INTO country_names(country_id, name) VALUES('jam', 'jamaica');
-INSERT INTO country_names(country_id, name) VALUES('jam', 'jamaican');
-INSERT INTO country_names(country_id, name) VALUES('jam', 'jumieka');
-INSERT INTO country_names(country_id, name) VALUES('jpn', 'japan');
-INSERT INTO country_names(country_id, name) VALUES('jpn', 'japanese');
-INSERT INTO country_names(country_id, name) VALUES('jpn', 'nihon');
-INSERT INTO country_names(country_id, name) VALUES('jpn', 'nihon-koku');
-INSERT INTO country_names(country_id, name) VALUES('jpn', 'nippon');
-INSERT INTO country_names(country_id, name) VALUES('jpn', 'nippon-koku');
-INSERT INTO country_names(country_id, name) VALUES('khm', 'cambodia');
-INSERT INTO country_names(country_id, name) VALUES('khm', 'cambodian');
-INSERT INTO country_names(country_id, name) VALUES('khm', 'kingdom of cambodia');
-INSERT INTO country_names(country_id, name) VALUES('kor', 'korea');
-INSERT INTO country_names(country_id, name) VALUES('kor', 'korean');
-INSERT INTO country_names(country_id, name) VALUES('kor', 'republic of korean');
-INSERT INTO country_names(country_id, name) VALUES('kor', 's korea');
-INSERT INTO country_names(country_id, name) VALUES('kor', 's. korea');
-INSERT INTO country_names(country_id, name) VALUES('kor', 'south korea');
-INSERT INTO country_names(country_id, name) VALUES('kwt', 'kuwait');
-INSERT INTO country_names(country_id, name) VALUES('kwt', 'state of kuwait');
-INSERT INTO country_names(country_id, name) VALUES('lbn', 'lebanese');
-INSERT INTO country_names(country_id, name) VALUES('lbn', 'lebanon');
-INSERT INTO country_names(country_id, name) VALUES('lbn', 'republic of lebanon');
-INSERT INTO country_names(country_id, name) VALUES('lbr', 'liberia');
-INSERT INTO country_names(country_id, name) VALUES('lbr', 'liberian');
-INSERT INTO country_names(country_id, name) VALUES('lbr', 'republic of liberia');
-INSERT INTO country_names(country_id, name) VALUES('lie', 'furstentum liechtenstein');
-INSERT INTO country_names(country_id, name) VALUES('lie', 'liechtenstein');
-INSERT INTO country_names(country_id, name) VALUES('lie', 'principality of liechtenstein');
-INSERT INTO country_names(country_id, name) VALUES('ltu', 'lietuvos');
-INSERT INTO country_names(country_id, name) VALUES('ltu', 'lietuvos respublika');
-INSERT INTO country_names(country_id, name) VALUES('ltu', 'lithuania');
-INSERT INTO country_names(country_id, name) VALUES('ltu', 'lithuanian');
-INSERT INTO country_names(country_id, name) VALUES('ltu', 'republic of lithuania');
-INSERT INTO country_names(country_id, name) VALUES('lux', 'grand duchy of luxembourg');
-INSERT INTO country_names(country_id, name) VALUES('lux', 'letzeburg');
-INSERT INTO country_names(country_id, name) VALUES('lux', 'luxembourg');
-INSERT INTO country_names(country_id, name) VALUES('lva', 'latvejas');
-INSERT INTO country_names(country_id, name) VALUES('lva', 'latvia');
-INSERT INTO country_names(country_id, name) VALUES('lva', 'latvian');
-INSERT INTO country_names(country_id, name) VALUES('lva', 'latvijas');
-INSERT INTO country_names(country_id, name) VALUES('lva', 'republic of latvia');
-INSERT INTO country_names(country_id, name) VALUES('mac', 'macao');
-INSERT INTO country_names(country_id, name) VALUES('mac', 'macau');
-INSERT INTO country_names(country_id, name) VALUES('mar', 'kingdom of morocco');
-INSERT INTO country_names(country_id, name) VALUES('mar', 'moroccan');
-INSERT INTO country_names(country_id, name) VALUES('mar', 'morocco');
-INSERT INTO country_names(country_id, name) VALUES('mex', 'mexican');
-INSERT INTO country_names(country_id, name) VALUES('mex', 'mexico');
-INSERT INTO country_names(country_id, name) VALUES('mmr', 'burma');
-INSERT INTO country_names(country_id, name) VALUES('mmr', 'burmese');
-INSERT INTO country_names(country_id, name) VALUES('mmr', 'myanmar');
-INSERT INTO country_names(country_id, name) VALUES('mmr', 'republic of myanmar');
-INSERT INTO country_names(country_id, name) VALUES('mmr', 'republic of the union of myanmar');
-INSERT INTO country_names(country_id, name) VALUES('mmr', 'union of myanmar');
-INSERT INTO country_names(country_id, name) VALUES('mng', 'mongolia');
-INSERT INTO country_names(country_id, name) VALUES('mng', 'mongolian');
-INSERT INTO country_names(country_id, name) VALUES('nfl', 'foundland');
-INSERT INTO country_names(country_id, name) VALUES('nfl', 'new found land');
-INSERT INTO country_names(country_id, name) VALUES('nfl', 'new foundland');
-INSERT INTO country_names(country_id, name) VALUES('nfl', 'newfoundland');
-INSERT INTO country_names(country_id, name) VALUES('nld', 'dutch');
-INSERT INTO country_names(country_id, name) VALUES('nld', 'kingdom of the netherlands');
-INSERT INTO country_names(country_id, name) VALUES('nld', 'netherland');
-INSERT INTO country_names(country_id, name) VALUES('nld', 'netherlands');
-INSERT INTO country_names(country_id, name) VALUES('nld', 'netherlands, the');
-INSERT INTO country_names(country_id, name) VALUES('nld', 'the netherlands');
-INSERT INTO country_names(country_id, name) VALUES('nor', 'kingdom of norway');
-INSERT INTO country_names(country_id, name) VALUES('nor', 'kongeriket norge');
-INSERT INTO country_names(country_id, name) VALUES('nor', 'noreg');
-INSERT INTO country_names(country_id, name) VALUES('nor', 'norge');
-INSERT INTO country_names(country_id, name) VALUES('nor', 'norway');
-INSERT INTO country_names(country_id, name) VALUES('nor', 'norwegian');
-INSERT INTO country_names(country_id, name) VALUES('npl', 'democratic republic of nepal');
-INSERT INTO country_names(country_id, name) VALUES('npl', 'federal democratic republic of nepal');
-INSERT INTO country_names(country_id, name) VALUES('npl', 'nepal');
-INSERT INTO country_names(country_id, name) VALUES('npl', 'nepala');
-INSERT INTO country_names(country_id, name) VALUES('npl', 'nepalese');
-INSERT INTO country_names(country_id, name) VALUES('npl', 'republic of nepal');
-INSERT INTO country_names(country_id, name) VALUES('nzl', 'aotearoa');
-INSERT INTO country_names(country_id, name) VALUES('nzl', 'new zealand');
-INSERT INTO country_names(country_id, name) VALUES('nzl', 'zealand');
-INSERT INTO country_names(country_id, name) VALUES('pan', 'panama');
-INSERT INTO country_names(country_id, name) VALUES('pan', 'panamanian');
-INSERT INTO country_names(country_id, name) VALUES('pan', 'republic of panama');
-INSERT INTO country_names(country_id, name) VALUES('pan', 'republica de panama');
-INSERT INTO country_names(country_id, name) VALUES('per', 'peru');
-INSERT INTO country_names(country_id, name) VALUES('per', 'peruvian');
-INSERT INTO country_names(country_id, name) VALUES('per', 'republic of peru');
-INSERT INTO country_names(country_id, name) VALUES('per', 'republica del peru');
-INSERT INTO country_names(country_id, name) VALUES('phl', 'filipino');
-INSERT INTO country_names(country_id, name) VALUES('phl', 'philippines');
-INSERT INTO country_names(country_id, name) VALUES('phl', 'pilipinas');
-INSERT INTO country_names(country_id, name) VALUES('phl', 'republic of the philippines');
-INSERT INTO country_names(country_id, name) VALUES('phl', 'the philippines');
-INSERT INTO country_names(country_id, name) VALUES('phl', 'the republic of the philippines');
-INSERT INTO country_names(country_id, name) VALUES('pol', 'poland');
-INSERT INTO country_names(country_id, name) VALUES('pol', 'polish');
-INSERT INTO country_names(country_id, name) VALUES('pol', 'polska');
-INSERT INTO country_names(country_id, name) VALUES('pol', 'republic of poland');
-INSERT INTO country_names(country_id, name) VALUES('pol', 'rzeczpospolita polska');
-INSERT INTO country_names(country_id, name) VALUES('prt', 'portugal');
-INSERT INTO country_names(country_id, name) VALUES('prt', 'portuguesa');
-INSERT INTO country_names(country_id, name) VALUES('prt', 'portuguese');
-INSERT INTO country_names(country_id, name) VALUES('prt', 'portuguese republic');
-INSERT INTO country_names(country_id, name) VALUES('prt', 'republica pertuesa');
-INSERT INTO country_names(country_id, name) VALUES('prt', 'republica portuguesa');
-INSERT INTO country_names(country_id, name) VALUES('pry', 'paraguai');
-INSERT INTO country_names(country_id, name) VALUES('pry', 'paraguai tavakuaireta');
-INSERT INTO country_names(country_id, name) VALUES('pry', 'paraguay');
-INSERT INTO country_names(country_id, name) VALUES('pry', 'republic of paraguay');
-INSERT INTO country_names(country_id, name) VALUES('pry', 'republica del paraguay');
-INSERT INTO country_names(country_id, name) VALUES('rou', 'romania');
-INSERT INTO country_names(country_id, name) VALUES('rou', 'romanian');
-INSERT INTO country_names(country_id, name) VALUES('rus', 'russia');
-INSERT INTO country_names(country_id, name) VALUES('rus', 'russian');
-INSERT INTO country_names(country_id, name) VALUES('sau', 'kingdom of saudi arabia');
-INSERT INTO country_names(country_id, name) VALUES('sau', 'saudi');
-INSERT INTO country_names(country_id, name) VALUES('sau', 'saudi arabia');
-INSERT INTO country_names(country_id, name) VALUES('sau', 'saudi arabian');
-INSERT INTO country_names(country_id, name) VALUES('slv', 'el salvador');
-INSERT INTO country_names(country_id, name) VALUES('slv', 'el salvadorean');
-INSERT INTO country_names(country_id, name) VALUES('slv', 'republic of el salvador');
-INSERT INTO country_names(country_id, name) VALUES('slv', 'republica de el salvador');
-INSERT INTO country_names(country_id, name) VALUES('slv', 'salvadorean');
-INSERT INTO country_names(country_id, name) VALUES('srb', 'republic of serbia');
-INSERT INTO country_names(country_id, name) VALUES('srb', 'republika srbija');
-INSERT INTO country_names(country_id, name) VALUES('srb', 'serbia');
-INSERT INTO country_names(country_id, name) VALUES('srb', 'serbian');
-INSERT INTO country_names(country_id, name) VALUES('srb', 'srbija');
-INSERT INTO country_names(country_id, name) VALUES('sur', 'dutch guiana');
-INSERT INTO country_names(country_id, name) VALUES('sur', 'guiana');
-INSERT INTO country_names(country_id, name) VALUES('sur', 'republic of suriname');
-INSERT INTO country_names(country_id, name) VALUES('sur', 'republiek suriname');
-INSERT INTO country_names(country_id, name) VALUES('sur', 'suriname');
-INSERT INTO country_names(country_id, name) VALUES('swe', 'kingdom of sweden');
-INSERT INTO country_names(country_id, name) VALUES('swe', 'konungariket sverige');
-INSERT INTO country_names(country_id, name) VALUES('swe', 'sweden');
-INSERT INTO country_names(country_id, name) VALUES('swe', 'swedish');
-INSERT INTO country_names(country_id, name) VALUES('syr', 'syria');
-INSERT INTO country_names(country_id, name) VALUES('syr', 'syrian');
-INSERT INTO country_names(country_id, name) VALUES('syr', 'syrian arab republic');
-INSERT INTO country_names(country_id, name) VALUES('tha', 'kingdom of thailand');
-INSERT INTO country_names(country_id, name) VALUES('tha', 'thai');
-INSERT INTO country_names(country_id, name) VALUES('tha', 'thailand');
-INSERT INTO country_names(country_id, name) VALUES('tur', 'republic of turkey');
-INSERT INTO country_names(country_id, name) VALUES('tur', 'republic of turkiye');
-INSERT INTO country_names(country_id, name) VALUES('tur', 'turkey');
-INSERT INTO country_names(country_id, name) VALUES('tur', 'turkish');
-INSERT INTO country_names(country_id, name) VALUES('tur', 'turkiye');
-INSERT INTO country_names(country_id, name) VALUES('tur', 'turkiye cumhuriyeti');
-INSERT INTO country_names(country_id, name) VALUES('uar', 'united arab republic');
-INSERT INTO country_names(country_id, name) VALUES('ury', 'oriental republic of uruguay');
-INSERT INTO country_names(country_id, name) VALUES('ury', 'republic of uruguay');
-INSERT INTO country_names(country_id, name) VALUES('ury', 'republica oriental del uruguay');
-INSERT INTO country_names(country_id, name) VALUES('ury', 'republica oriental do uruguai');
-INSERT INTO country_names(country_id, name) VALUES('ury', 'uruguai');
-INSERT INTO country_names(country_id, name) VALUES('ury', 'uruguay');
-INSERT INTO country_names(country_id, name) VALUES('usa', 'united states');
-INSERT INTO country_names(country_id, name) VALUES('usa', 'united states america');
-INSERT INTO country_names(country_id, name) VALUES('usa', 'united states of america');
-INSERT INTO country_names(country_id, name) VALUES('usa', 'us');
-INSERT INTO country_names(country_id, name) VALUES('usa', 'usa');
-INSERT INTO country_names(country_id, name) VALUES('ven', 'bolivarian republic of venezuela');
-INSERT INTO country_names(country_id, name) VALUES('ven', 'republica bolivariana de venezuela');
-INSERT INTO country_names(country_id, name) VALUES('ven', 'venezuela');
-INSERT INTO country_names(country_id, name) VALUES('ven', 'venezuelan');
-INSERT INTO country_names(country_id, name) VALUES('zaf', 's africa');
-INSERT INTO country_names(country_id, name) VALUES('zaf', 's african');
-INSERT INTO country_names(country_id, name) VALUES('zaf', 's. africa');
-INSERT INTO country_names(country_id, name) VALUES('zaf', 's. african');
-INSERT INTO country_names(country_id, name) VALUES('zaf', 'south africa');
-INSERT INTO country_names(country_id, name) VALUES('zaf', 'south african');
+INSERT INTO countries(country_id, display_name, tags, series) VALUES
+('afg', 'afghanistan', 'none', 'base'),
+('alb', 'albania', 'none', 'base'),
+('arg', 'argentina', 'none', 'base'),
+('aus', 'australia', 'none', 'base'),
+('aut', 'austria', 'none', 'base'),
+('bel', 'belgium', 'none', 'base'),
+('bgr', 'bulgaria', 'none', 'base'),
+('bmu', 'bermuda', 'none', 'base'),
+('bol', 'bolivia', 'none', 'base'),
+('bra', 'brazil', 'none', 'base'),
+('can', 'canada', 'none', 'base'),
+('che', 'switzerland', 'none', 'base'),
+('chl', 'chile', 'none', 'base'),
+('chn', 'china', 'none', 'base'),
+('col', 'colombia', 'none', 'base'),
+('com', 'comoros', 'none', 'base'),
+('cri', 'costa rica', 'none', 'base'),
+('csk', 'czechoslovakia', 'none', 'base'),
+('cub', 'cuba', 'none', 'base'),
+('cuw', 'curacao', 'none', 'base'),
+('cyp', 'Cyprus', 'none', 'base'),
+('deu', 'germany', 'none', 'base'),
+('dnk', 'denmark', 'none', 'base'),
+('ecu', 'ecuador', 'none', 'base'),
+('egy', 'egypt', 'none', 'base'),
+('eri', 'eritrea', 'none', 'base'),
+('esp', 'spain', 'none', 'base'),
+('est', 'estonia', 'none', 'base'),
+('eth', 'ethiopia', 'none', 'base'),
+('fin', 'finland', 'none', 'base'),
+('fji', 'fiji', 'none', 'base'),
+('fra', 'france', 'none', 'base'),
+('gbr', 'great britain', 'none', 'base'),
+('grc', 'greece', 'none', 'base'),
+('gtm', 'guatemala', 'none', 'base'),
+('haw', 'hawaii', 'none', 'base'),
+('hkg', 'hong kong', 'none', 'base'),
+('hnd', 'honduras', 'none', 'base'),
+('hti', 'haiti', 'none', 'base'),
+('hun', 'hungary', 'none', 'base'),
+('ind', 'india', 'none', 'base'),
+('irl', 'ireland', 'none', 'base'),
+('irn', 'iran', 'none', 'base'),
+('irq', 'iraq', 'none', 'base'),
+('isl', 'iceland', 'none', 'base'),
+('isr', 'israel', 'none', 'base'),
+('ita', 'italy', 'none', 'base'),
+('jam', 'jamaica', 'none', 'base'),
+('jpn', 'japan', 'none', 'base'),
+('khm', 'cambodia', 'none', 'base'),
+('kor', 'korea', 'none', 'base'),
+('kwt', 'kuwait', 'none', 'base'),
+('lbn', 'lebanon', 'none', 'base'),
+('lbr', 'liberia', 'none', 'base'),
+('lie', 'liechtenstein', 'none', 'base'),
+('ltu', 'lithuania', 'none', 'base'),
+('lux', 'luxembourg', 'none', 'base'),
+('lva', 'latvia', 'none', 'base'),
+('mac', 'macau', 'none', 'base'),
+('mar', 'morocco', 'none', 'base'),
+('mex', 'mexico', 'none', 'base'),
+('mmr', 'myanmar', 'none', 'base'),
+('mng', 'mongolia', 'none', 'base'),
+('nfl', 'newfoundland', 'none', 'base'),
+('nld', 'netherlands, the', 'none', 'base'),
+('nor', 'norway', 'none', 'base'),
+('npl', 'nepal', 'none', 'base'),
+('nzl', 'new zealand', 'none', 'base'),
+('pan', 'panama', 'none', 'base'),
+('per', 'peru', 'none', 'base'),
+('phl', 'philippines', 'none', 'base'),
+('pol', 'poland', 'none', 'base'),
+('prt', 'portugal', 'none', 'base'),
+('pry', 'paraguay', 'none', 'base'),
+('rou', 'romania', 'none', 'base'),
+('rus', 'russia', 'none', 'base'),
+('sau', 'saudi arabia', 'none', 'base'),
+('slv', 'el salvador', 'none', 'base'),
+('srb', 'serbia', 'none', 'base'),
+('sur', 'suriname', 'none', 'base'),
+('swe', 'sweden', 'none', 'base'),
+('syr', 'syria', 'none', 'base'),
+('tha', 'thailand', 'none', 'base'),
+('tur', 'turkey', 'none', 'base'),
+('uar', 'united arab republic', 'none', 'base'),
+('ury', 'uruguay', 'none', 'base'),
+('usa', 'united states of america', 'none', 'base'),
+('ven', 'venezuela', 'none', 'base'),
+('zaf', 'south africa', 'none', 'base');
+INSERT INTO country_names(country_id, name) VALUES
+('afg', 'afghan'),
+('afg', 'afghani'),
+('afg', 'afghanistan'),
+('afg', 'afghanistani'),
+('afg', 'islamic emirate of afghanistan'),
+('alb', 'albania'),
+('alb', 'albanian'),
+('alb', 'republic of albania'),
+('alb', 'republika e shqiperise'),
+('alb', 'shqiperise'),
+('arg', 'argentina'),
+('arg', 'argentine'),
+('arg', 'argentine republic'),
+('arg', 'republica argentina'),
+('aus', 'australia'),
+('aus', 'australian'),
+('aus', 'commonwealth of autralia'),
+('aut', 'austria'),
+('aut', 'austrian'),
+('aut', 'osterreich'),
+('aut', 'republic of austria'),
+('aut', 'republik osterreich'),
+('bel', 'belgian'),
+('bel', 'belgie'),
+('bel', 'belgien'),
+('bel', 'belgique'),
+('bel', 'belgium'),
+('bel', 'kingdom of belgium'),
+('bgr', 'bulgaria'),
+('bgr', 'bulgarian'),
+('bgr', 'bulgariya'),
+('bgr', 'republic of bulgaria'),
+('bgr', 'republika bulgariya'),
+('bmu', 'bermuda'),
+('bmu', 'bermudian'),
+('bmu', 'bermy'),
+('bol', 'bolivia'),
+('bol', 'bolivian'),
+('bol', 'estada plurinacional de bolivia'),
+('bol', 'plurinational state of bolivia'),
+('bra', 'brasil'),
+('bra', 'brazil'),
+('bra', 'brazilian'),
+('bra', 'federative republic of brazil'),
+('bra', 'republic of brazil'),
+('bra', 'republica federativa do brasil'),
+('can', 'canada'),
+('can', 'canadian'),
+('che', 'confoederatio helvetica'),
+('che', 'helvetia'),
+('che', 'swiss'),
+('che', 'switzerland'),
+('chl', 'chile'),
+('chl', 'republic of chile'),
+('chl', 'republica de chile'),
+('chn', 'china'),
+('chn', 'chinese'),
+('chn', 'people\'s republic of china'),
+('chn', 'peoples republic of china'),
+('chn', 'republic of china'),
+('col', 'colombia'),
+('col', 'colombian'),
+('col', 'republic of colombia'),
+('col', 'republica de colombia'),
+('com', 'comores'),
+('com', 'comoros'),
+('com', 'komori'),
+('com', 'udzima wa komori'),
+('com', 'union des comores'),
+('com', 'union of the comoros'),
+('cri', 'costa rica'),
+('cri', 'costa rican'),
+('cri', 'republic of costa rica'),
+('cri', 'republica de costa rica'),
+('csk', 'ceskoslovensko'),
+('csk', 'czechoslovakia'),
+('csk', 'czechoslovakian'),
+('cub', 'cuba'),
+('cub', 'cuban'),
+('cub', 'republic of cuba'),
+('cub', 'republica de cuba'),
+('cuw', 'country of curacao'),
+('cuw', 'curacao'),
+('cuw', 'korsou'),
+('cuw', 'land curacao'),
+('cuw', 'pais korsou'),
+('cyp', 'cypriot'),
+('cyp', 'Cyprus'),
+('cyp', 'republic of cyprus'),
+('deu', 'deutschland'),
+('deu', 'german'),
+('deu', 'germany'),
+('dnk', 'danish'),
+('dnk', 'danmark'),
+('dnk', 'denmark'),
+('ecu', 'ecuador'),
+('ecu', 'ecuadorian'),
+('ecu', 'republic of ecuador'),
+('ecu', 'republica del ecuador'),
+('egy', 'arab republic of egypt'),
+('egy', 'egypt'),
+('egy', 'egyptian'),
+('eri', 'eritrea'),
+('eri', 'eritrean'),
+('eri', 'state of eritrea'),
+('esp', 'espana'),
+('esp', 'kingdom of spain'),
+('esp', 'reino de espana'),
+('esp', 'spain'),
+('esp', 'spanish'),
+('est', 'eesti'),
+('est', 'eesti vabariik'),
+('est', 'estonia'),
+('est', 'estonian'),
+('est', 'republic of estonia'),
+('eth', 'ethiopia'),
+('eth', 'ethiopian'),
+('eth', 'federal democratic republic of ethiopia'),
+('fin', 'finland'),
+('fin', 'finnish'),
+('fin', 'republic of finland'),
+('fin', 'republiken finland'),
+('fin', 'suomen tasavalta'),
+('fin', 'suomi'),
+('fji', 'fiji'),
+('fji', 'fijian'),
+('fji', 'republic of fiji'),
+('fra', 'francais'),
+('fra', 'francaise'),
+('fra', 'france'),
+('fra', 'french'),
+('gbr', 'britain'),
+('gbr', 'british'),
+('gbr', 'great britain'),
+('grc', 'elliniki dimokratia'),
+('grc', 'greece'),
+('grc', 'greek'),
+('grc', 'hellenic republic'),
+('gtm', 'guatemala'),
+('gtm', 'guatemalan'),
+('gtm', 'republic of guatemala'),
+('gtm', 'republica de guatemala'),
+('haw', 'hawaii'),
+('haw', 'hawaiian'),
+('hkg', 'hk'),
+('hkg', 'hong kong'),
+('hnd', 'honduras'),
+('hnd', 'republic of honduras'),
+('hnd', 'republica de honduras'),
+('hti', 'ayiti'),
+('hti', 'haiti'),
+('hti', 'haitian'),
+('hti', 'repiblik d ayiti'),
+('hti', 'republic of haiti'),
+('hun', 'hungarian'),
+('hun', 'hungary'),
+('hun', 'magyarorszag'),
+('ind', 'india'),
+('ind', 'indian'),
+('ind', 'republic of india'),
+('irl', 'eire'),
+('irl', 'ireland'),
+('irl', 'irish'),
+('irl', 'republic of ireland'),
+('irn', 'iran'),
+('irn', 'irani'),
+('irn', 'islamic republic of iran'),
+('irn', 'republic of iran'),
+('irq', 'iraq'),
+('irq', 'iraqi'),
+('irq', 'republic of iraq'),
+('isl', 'iceland'),
+('isl', 'icelandic'),
+('isl', 'icelandish'),
+('isl', 'island'),
+('isr', 'israel'),
+('isr', 'israeli'),
+('isr', 'state of israel'),
+('ita', 'italian'),
+('ita', 'italy'),
+('jam', 'jamaica'),
+('jam', 'jamaican'),
+('jam', 'jumieka'),
+('jpn', 'japan'),
+('jpn', 'japanese'),
+('jpn', 'nihon'),
+('jpn', 'nihon-koku'),
+('jpn', 'nippon'),
+('jpn', 'nippon-koku'),
+('khm', 'cambodia'),
+('khm', 'cambodian'),
+('khm', 'kingdom of cambodia'),
+('kor', 'korea'),
+('kor', 'korean'),
+('kor', 'republic of korean'),
+('kor', 's korea'),
+('kor', 's. korea'),
+('kor', 'south korea'),
+('kwt', 'kuwait'),
+('kwt', 'state of kuwait'),
+('lbn', 'lebanese'),
+('lbn', 'lebanon'),
+('lbn', 'republic of lebanon'),
+('lbr', 'liberia'),
+('lbr', 'liberian'),
+('lbr', 'republic of liberia'),
+('lie', 'furstentum liechtenstein'),
+('lie', 'liechtenstein'),
+('lie', 'principality of liechtenstein'),
+('ltu', 'lietuvos'),
+('ltu', 'lietuvos respublika'),
+('ltu', 'lithuania'),
+('ltu', 'lithuanian'),
+('ltu', 'republic of lithuania'),
+('lux', 'grand duchy of luxembourg'),
+('lux', 'letzeburg'),
+('lux', 'luxembourg'),
+('lva', 'latvejas'),
+('lva', 'latvia'),
+('lva', 'latvian'),
+('lva', 'latvijas'),
+('lva', 'republic of latvia'),
+('mac', 'macao'),
+('mac', 'macau'),
+('mar', 'kingdom of morocco'),
+('mar', 'moroccan'),
+('mar', 'morocco'),
+('mex', 'mexican'),
+('mex', 'mexico'),
+('mmr', 'burma'),
+('mmr', 'burmese'),
+('mmr', 'myanmar'),
+('mmr', 'republic of myanmar'),
+('mmr', 'republic of the union of myanmar'),
+('mmr', 'union of myanmar'),
+('mng', 'mongolia'),
+('mng', 'mongolian'),
+('nfl', 'foundland'),
+('nfl', 'new found land'),
+('nfl', 'new foundland'),
+('nfl', 'newfoundland'),
+('nld', 'dutch'),
+('nld', 'kingdom of the netherlands'),
+('nld', 'netherland'),
+('nld', 'netherlands'),
+('nld', 'netherlands, the'),
+('nld', 'the netherlands'),
+('nor', 'kingdom of norway'),
+('nor', 'kongeriket norge'),
+('nor', 'noreg'),
+('nor', 'norge'),
+('nor', 'norway'),
+('nor', 'norwegian'),
+('npl', 'democratic republic of nepal'),
+('npl', 'federal democratic republic of nepal'),
+('npl', 'nepal'),
+('npl', 'nepala'),
+('npl', 'nepalese'),
+('npl', 'republic of nepal'),
+('nzl', 'aotearoa'),
+('nzl', 'new zealand'),
+('nzl', 'zealand'),
+('pan', 'panama'),
+('pan', 'panamanian'),
+('pan', 'republic of panama'),
+('pan', 'republica de panama'),
+('per', 'peru'),
+('per', 'peruvian'),
+('per', 'republic of peru'),
+('per', 'republica del peru'),
+('phl', 'filipino'),
+('phl', 'philippines'),
+('phl', 'pilipinas'),
+('phl', 'republic of the philippines'),
+('phl', 'the philippines'),
+('phl', 'the republic of the philippines'),
+('pol', 'poland'),
+('pol', 'polish'),
+('pol', 'polska'),
+('pol', 'republic of poland'),
+('pol', 'rzeczpospolita polska'),
+('prt', 'portugal'),
+('prt', 'portuguesa'),
+('prt', 'portuguese'),
+('prt', 'portuguese republic'),
+('prt', 'republica pertuesa'),
+('prt', 'republica portuguesa'),
+('pry', 'paraguai'),
+('pry', 'paraguai tavakuaireta'),
+('pry', 'paraguay'),
+('pry', 'republic of paraguay'),
+('pry', 'republica del paraguay'),
+('rou', 'romania'),
+('rou', 'romanian'),
+('rus', 'russia'),
+('rus', 'russian'),
+('sau', 'kingdom of saudi arabia'),
+('sau', 'saudi'),
+('sau', 'saudi arabia'),
+('sau', 'saudi arabian'),
+('slv', 'el salvador'),
+('slv', 'el salvadorean'),
+('slv', 'republic of el salvador'),
+('slv', 'republica de el salvador'),
+('slv', 'salvadorean'),
+('srb', 'republic of serbia'),
+('srb', 'republika srbija'),
+('srb', 'serbia'),
+('srb', 'serbian'),
+('srb', 'srbija'),
+('sur', 'dutch guiana'),
+('sur', 'guiana'),
+('sur', 'republic of suriname'),
+('sur', 'republiek suriname'),
+('sur', 'suriname'),
+('swe', 'kingdom of sweden'),
+('swe', 'konungariket sverige'),
+('swe', 'sweden'),
+('swe', 'swedish'),
+('syr', 'syria'),
+('syr', 'syrian'),
+('syr', 'syrian arab republic'),
+('tha', 'kingdom of thailand'),
+('tha', 'thai'),
+('tha', 'thailand'),
+('tur', 'republic of turkey'),
+('tur', 'republic of turkiye'),
+('tur', 'turkey'),
+('tur', 'turkish'),
+('tur', 'turkiye'),
+('tur', 'turkiye cumhuriyeti'),
+('uar', 'united arab republic'),
+('ury', 'oriental republic of uruguay'),
+('ury', 'republic of uruguay'),
+('ury', 'republica oriental del uruguay'),
+('ury', 'republica oriental do uruguai'),
+('ury', 'uruguai'),
+('ury', 'uruguay'),
+('usa', 'united states'),
+('usa', 'united states america'),
+('usa', 'united states of america'),
+('usa', 'us'),
+('usa', 'usa'),
+('ven', 'bolivarian republic of venezuela'),
+('ven', 'republica bolivariana de venezuela'),
+('ven', 'venezuela'),
+('ven', 'venezuelan'),
+('zaf', 's africa'),
+('zaf', 's african'),
+('zaf', 's. africa'),
+('zaf', 's. african'),
+('zaf', 'south africa'),
+('zaf', 'south african');
