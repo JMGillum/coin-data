@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.1 (???)
+
+* Added bullion issues:
+  * Mexican Libertad
+
 ## v1.0 (Februrary 21, 2026)
 
 * Started versioning database
