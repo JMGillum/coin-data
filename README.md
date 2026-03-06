@@ -1,23 +1,21 @@
 # coin-data
-This repository will serve as the storage location for files that can be used to build the database needed for the precious metal calculator program found at: https://github.com/JMGillum/melt-calculator. The SQL files are what are needed to build the database. They are written in MySQL, so MySQL or MariaDB will be required (the melt-calculator program uses MariaDB, so this is recommended).   
+This repository will serve as the storage location for files that can be used to build the database needed for the precious metal calculator program found at: [https://github.com/JMGillum/melt-calculator](https://github.com/JMGillum/melt-calculator). The SQL files are what are needed to build the database. They are written in MySQL, so MySQL or MariaDB will be required (the melt-calculator program uses MariaDB, so this is recommended).   
 
 # Installation
 The first step before these files can be loaded into a database system, is to have the database system installed. We will use MariaDB, as that is what the program was written for and tested with. Follow the instructions: [https://mariadb.com/docs/server/mariadb-quickstart-guides/installing-mariadb-server-guide](https://mariadb.com/docs/server/mariadb-quickstart-guides/installing-mariadb-server-guide) to install MariaDB, then return here.
 
 ## Automatic
-Contained within this repository is the bash script: `db.sh`, which handles loading of all of the files into the database system for you. All that you have to do is to invoke the script with at least two arguments: the user to connect to the database with, the name of the database to use, and optionally: the path to the directory storing the SQL files, which is ./ (unless you moved them).  
-Ex: `./db.sh root coin_data` or optionally: `./db.sh root coin_data ./`  
-The script will prompt you as needed, and will load all of the files into the database system as needed. 
+Contained in the melt-calculator program is a script for loading all of the files into the database in the correct order. See the help section for the program for usage information.
 
 ## Manual
 The files must be loaded into the database system in the following order:
-1. base_setup_db.sql -> This creates all of the tables for the database.
-2. base_setup_countries.sql -> This stores all of the data for the countries.
-3. base_setup_denominations.sql -> This stores all of the data for the monetary denominations.
-4. base_setup_values.sql -> This stores all of the data for the coin face values.
-5. base_setup_coins.sql -> This stores all of the data for individual coins.
-6. base_setup_coins_years.sql -> This stores all of the years that the coins were available in.
-7. base_purchases.sql -> This file is absent from the repository. It will be created throughout usage of the program. It stores any coin purchases made.
+1. setup.sql -> This creates all of the tables for the database.
+2. countries.sql -> This stores all of the data for the countries.
+3. denominations.sql -> This stores all of the data for the monetary denominations.
+4. values.sql -> This stores all of the data for the coin face values.
+5. coins.sql -> This stores all of the data for individual coins.
+6. coins_years.sql -> This stores all of the years that the coins were available in.
+7. purchases.sql -> This file is absent from the repository. It will be created throughout usage of the program. It stores any coin purchases made.
 
 Each file builds upon the last, so they must be ran in this exact order (otherwise your computer will explode).
 
@@ -84,6 +82,7 @@ A country (or entity) can be in one of the following states:
 The official series for entries will be:
 * **base** for entries for the base state
 * **expanded** for entries for the expanded state
+* **bullion** for entries bullion issues
 * **non-precious** for entries for the complete+ state
 
 | name                     | id         | state                 |
