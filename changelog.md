@@ -2,6 +2,9 @@
 
 ## v1.1 (???)
 
+* Moved seed files to data/<series>
+
+* Moved all of the bullion issues from the `base` series to the `bullion` series
 * Added bullion issues:
   * Mexican Libertad
 
