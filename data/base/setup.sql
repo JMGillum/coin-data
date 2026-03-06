@@ -1,3 +1,18 @@
+-- Drop everything to start with clean slate
+DROP TABLE IF EXISTS purchases;
+DROP TABLE IF EXISTS specific_coins;
+DROP TABLE IF EXISTS years;
+DROP TABLE IF EXISTS coins;
+DROP TABLE IF EXISTS face_values_names;
+DROP TABLE IF EXISTS face_values;
+DROP TABLE IF EXISTS denomination_names;
+DROP TABLE IF EXISTS denominations;
+DROP TABLE IF EXISTS country_names;
+DROP TABLE IF EXISTS countries;
+DROP TABLE IF EXISTS tags;
+DROP TABLE IF EXISTS metals;
+DROP TABLE IF EXISTS version;
+
 CREATE TABLE version (
   major INT(11),
   minor INT(11),
@@ -5,6 +20,7 @@ CREATE TABLE version (
 );
 
 INSERT INTO version(major,minor) VALUES(1,0);
+
 
 CREATE TABLE metals (
   metal_id varchar(5) PRIMARY KEY,
