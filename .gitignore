@@ -1,11 +1,9 @@
 test_*
 *.log
-setup.sql
-setup*.sql.bak
+*.bak
 connect.py
 example.py
 commit_test.sh
-purchases.bak
 purchases.sql
 purchases.*.sql
 *_purchases.sql
