@@ -19,7 +19,7 @@ CREATE TABLE version (
   PRIMARY KEY (major,minor)
 );
 
-INSERT INTO version(major,minor) VALUES(1,0);
+INSERT INTO version(major,minor) VALUES(1,1);
 
 
 CREATE TABLE metals (
