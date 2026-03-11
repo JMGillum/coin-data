@@ -1,0 +1,713 @@
+[
+  {
+    "name": "version",
+    "comment": "Stores the current database version. Version number is major.minor.",
+    "columns": [
+      {
+        "name": "major",
+        "comment": "The first part of the version number.",
+        "type": "integer",
+        "options": {
+          "unsigned": true,
+          "notnull": true
+        }
+      },
+      {
+        "name": "minor",
+        "comment": "The second part of the version number.",
+        "type": "integer",
+        "options": {
+          "unsigned": true,
+          "notnull": true
+        }
+      }
+    ],
+    "primarykey": [
+      "major",
+      "minor"
+    ]
+  },
+  {
+    "name": "metals",
+    "comment": "Stores information about metals and alloys",
+    "columns": [
+      {
+        "name": "metal_id",
+        "comment": "Unique value for indexing metals. Should be periodic or chemical formula",
+        "type": "varchar",
+        "options": {
+          "notnull": true,
+          "length": 5
+        }
+      },
+      {
+        "name": "name",
+        "comment": "Proper name of the metal. This is what will be displayed when referencing the metal",
+        "type": "varchar",
+        "options": {
+          "notnull": true,
+          "length": 255
+        }
+      },
+      {
+        "name": "price",
+        "comment": "The price of the metal per troy ounce",
+        "type": "decimal",
+        "options": {
+          "notnull": true,
+          "length": 30,
+          "decimal": 10
+        }
+      },
+      {
+        "name": "price_date",
+        "comment": "The date that the value of the price column was gathered",
+        "type": "date",
+        "options": {
+          "notnull": true
+        }
+      },
+      {
+        "name": "series",
+        "comment": "Which series of data this metal belongs to",
+        "type": "varchar",
+        "options": {
+          "notnull": true,
+          "length": 32
+        }
+      }
+    ],
+    "primarykey": [
+      "metal_id"
+    ]
+  },
+  {
+    "name": "tags",
+    "comment": "Used for tagging issues.",
+    "columns": [
+      {
+        "name": "tag_id",
+        "comment": "Unique value for indexing tags. Used by various tables to reference the tag",
+        "type": "varchar",
+        "options": {
+          "notnull": true,
+          "length": 255
+        }
+      },
+      {
+        "name": "bullion",
+        "comment": "Whether the issue is bullion (Made purely for its precious metal content)",
+        "type": "bool",
+        "options": {
+          "default": false
+        }
+      }
+    ],
+    "primarykey": [
+      "tag_id"
+    ]
+  },
+  {
+    "name": "countries",
+    "comment": "Stores information about countries (or other issuing bodies)",
+    "columns": [
+      {
+        "name": "country_id",
+        "comment": "Unique value for indexing countries. Should be the ISO 3166-1 alpha-3 code where applicable. If not available, use a code of at least 4 characters.",
+        "type": "varchar",
+        "options": {
+          "notnull": true,
+          "length": 255
+        }
+      },
+      {
+        "name": "display_name",
+        "comment": "Proper name of the country. This is what will be displayed when referencing the country",
+        "type": "varchar",
+        "options": {
+          "notnull": true,
+          "length": 255
+        }
+      },
+      {
+        "name": "tags",
+        "comment": "Tags associated with the country as a whole",
+        "type": "varchar",
+        "options": {
+          "notnull": true,
+          "length": 255,
+          "default": "none"
+        }
+      },
+      {
+        "name": "series",
+        "comment": "Which series of data this country belongs to",
+        "type": "varchar",
+        "options": {
+          "notnull": true,
+          "length": 32
+        }
+      }
+    ],
+    "primarykey": [
+      "country_id"
+    ],
+    "foreignkey": [
+      {
+        "column": "tags",
+        "foreign-table": "tags",
+        "foreign-column": "tag_id",
+        "on-update": "cascade"
+      }
+    ]
+  },
+  {
+    "name": "country_names",
+    "comment": "Stores all of the names associated with a country. Used for search functionality",
+    "columns": [
+      {
+        "name": "name",
+        "comment": "Name to be tied to a country",
+        "type": "varchar",
+        "options": {
+          "notnull": true,
+          "length": 255
+        }
+      },
+      {
+        "name": "country_id",
+        "comment": "Country the name will be associated with",
+        "type": "varchar",
+        "options": {
+          "notnull": true,
+          "length": 255
+        }
+      }
+    ],
+    "primarykey": [
+      "name"
+    ],
+    "foreignkey": [
+      {
+        "column": "country_id",
+        "foreign-table": "countries",
+        "foreign-column": "country_id",
+        "on-update": "cascade"
+      }
+    ]
+  },
+  {
+    "name": "denominations",
+    "comment": "Stores information about denominations.",
+    "columns": [
+      {
+        "name": "denomination_id",
+        "comment": "Unique id for the denomination. Should be composed of <parent_country_id>_<something>.",
+        "type": "varchar",
+        "options": {
+          "notnull": true,
+          "length": 255
+        }
+      },
+      {
+        "name": "country_id",
+        "comment": "References the parent country of the denomination",
+        "type": "varchar",
+        "options": {
+          "notnull": true,
+          "length": 255
+        }
+      },
+      {
+        "name": "display_name",
+        "comment": "Proper name of the denomination. This is what will be displayed when referencing the denomination",
+        "type": "varchar",
+        "options": {
+          "notnull": true,
+          "length": 255
+        }
+      },
+      {
+        "name": "tags",
+        "comment": "Tags associated with the denomination as a whole",
+        "type": "varchar",
+        "options": {
+          "notnull": true,
+          "length": 255,
+          "default": "none"
+        }
+      },
+      {
+        "name": "series",
+        "comment": "Which series of data this denomination belongs to",
+        "type": "varchar",
+        "options": {
+          "notnull": true,
+          "length": 32
+        }
+      }
+    ],
+    "primarykey": [
+      "denomination_id"
+    ],
+    "foreignkey": [
+      {
+        "column": "country_id",
+        "foreign-table": "countries",
+        "foreign-column": "country_id",
+        "on-update": "cascade"
+      },
+      {
+        "column": "tags",
+        "foreign-table": "tags",
+        "foreign-column": "tag_id",
+        "on-update": "cascade"
+      }
+    ]
+  },
+  {
+    "name": "denomination_names",
+    "comment": "Stores all of the names associated with a denomination. Used for search functionality",
+    "columns": [
+      {
+        "name": "name_id",
+        "comment": "Denominations from different countries can have the same names. This is a unique index for the table.",
+        "type": "int",
+        "options": {
+          "notnull": true,
+          "autoincrement": true
+        }
+      },
+      {
+        "name": "name",
+        "comment": "Name to be tied to a denomination",
+        "type": "varchar",
+        "options": {
+          "notnull": true,
+          "length": 255
+        }
+      },
+      {
+        "name": "denomination_id",
+        "comment": "Denomination the name will be associated with",
+        "type": "varchar",
+        "options": {
+          "notnull": true,
+          "length": 255
+        }
+      }
+    ],
+    "primarykey": [
+      "name_id"
+    ],
+    "foreignkey": [
+      {
+        "column": "denomination_id",
+        "foreign-table": "denominations",
+        "foreign-column": "denomination_id",
+        "on-update": "cascade"
+      }
+    ]
+  },
+  {
+    "name": "face_values",
+    "comment": "Stores information about face values.",
+    "columns": [
+      {
+        "name": "value_id",
+        "comment": "Unique id for the face values. Should be composed of <parent_denomination_id>_<something>.",
+        "type": "varchar",
+        "options": {
+          "notnull": true,
+          "length": 255
+        }
+      },
+      {
+        "name": "denomination_id",
+        "comment": "References the parent denomination of the face values",
+        "type": "varchar",
+        "options": {
+          "notnull": true,
+          "length": 255
+        }
+      },
+      {
+        "name": "value",
+        "comment": "The numeric value of the face value",
+        "type": "decimal",
+        "options": {
+          "notnull": true,
+          "length": 20,
+          "decimal": 10
+        }
+      },
+      {
+        "name": "display_name",
+        "comment": "Proper name of the face value. If set, this is what will be displayed along with the numeric value",
+        "type": "varchar",
+        "options": {
+          "length": 255
+        }
+      },
+      {
+        "name": "tags",
+        "comment": "Tags associated with the face value as a whole",
+        "type": "varchar",
+        "options": {
+          "notnull": true,
+          "length": 255,
+          "default": "none"
+        }
+      },
+      {
+        "name": "series",
+        "comment": "Which series of data this face value belongs to",
+        "type": "varchar",
+        "options": {
+          "notnull": true,
+          "length": 32
+        }
+      }
+    ],
+    "primarykey": [
+      "value_id"
+    ],
+    "foreignkey": [
+      {
+        "column": "denomination_id",
+        "foreign-table": "denominations",
+        "foreign-column": "denomination_id",
+        "on-update": "cascade"
+      },
+      {
+        "column": "tags",
+        "foreign-table": "tags",
+        "foreign-column": "tag_id",
+        "on-update": "cascade"
+      }
+    ]
+  },
+  {
+    "name": "face_values_names",
+    "comment": "Stores all of the names associated with a face value. Used for search functionality",
+    "columns": [
+      {
+        "name": "name_id",
+        "comment": "Face values from different denominations can have the same names. This is a unique index for the table.",
+        "type": "int",
+        "options": {
+          "notnull": true,
+          "autoincrement": true
+        }
+      },
+      {
+        "name": "name",
+        "comment": "Name to be tied to a face value",
+        "type": "varchar",
+        "options": {
+          "notnull": true,
+          "length": 255
+        }
+      },
+      {
+        "name": "value_id",
+        "comment": "Face value that the name will be associated with",
+        "type": "varchar",
+        "options": {
+          "notnull": true,
+          "length": 255
+        }
+      }
+    ],
+    "primarykey": [
+      "name_id"
+    ],
+    "foreignkey": [
+      {
+        "column": "value_id",
+        "foreign-table": "face_values",
+        "foreign-column": "value_id",
+        "on-update": "cascade"
+      }
+    ]
+  },
+  {
+    "name": "coins",
+    "comment": "Stores information about coins.",
+    "columns": [
+      {
+        "name": "coin_id",
+        "comment": "Unique id for the coins. Should be composed of <parent_value_id>_<something>.",
+        "type": "varchar",
+        "options": {
+          "notnull": true,
+          "length": 255
+        }
+      },
+      {
+        "name": "face_value_id",
+        "comment": "References the parent face value of the coin",
+        "type": "varchar",
+        "options": {
+          "notnull": true,
+          "length": 255
+        }
+      },
+      {
+        "name": "gross_weight",
+        "comment": "The weight of the coin",
+        "type": "decimal",
+        "options": {
+          "notnull": true,
+          "length": 20,
+          "decimal": 10
+        }
+      },
+      {
+        "name": "fineness",
+        "comment": "The fineness of the coin as a decimal",
+        "type": "decimal",
+        "options": {
+          "notnull": true,
+          "length": 11,
+          "decimal": 10
+        }
+      },
+      {
+        "name": "precious_metal_weight",
+        "comment": "The weight of the precious metal in the coin",
+        "type": "decimal",
+        "options": {
+          "notnull": true,
+          "length": 20,
+          "decimal": 10
+        }
+      },
+      {
+        "name": "metal",
+        "comment": "The metal that the coin is made of",
+        "type": "varchar",
+        "options": {
+          "notnull": true,
+          "length": 5
+        }
+      },
+      {
+        "name": "name",
+        "comment": "Proper name of the coin. If set, this will be displayed with the coin.",
+        "type": "varchar",
+        "options": {
+          "length": 255
+        }
+      },
+      {
+        "name": "tags",
+        "comment": "Tags associated with the coin",
+        "type": "varchar",
+        "options": {
+          "notnull": true,
+          "length": 255,
+          "default": "none"
+        }
+      },
+      {
+        "name": "series",
+        "comment": "Which series of data this coin belongs to",
+        "type": "varchar",
+        "options": {
+          "notnull": true,
+          "length": 32
+        }
+      }
+    ],
+    "primarykey": [
+      "coin_id"
+    ],
+    "foreignkey": [
+      {
+        "column": "face_value_id",
+        "foreign-table": "face_values",
+        "foreign-column": "value_id",
+        "on-update": "cascade"
+      },
+      {
+        "column": "metal",
+        "foreign-table": "metals",
+        "foreign-column": "metal_id",
+        "on-update": "cascade"
+      },
+      {
+        "column": "tags",
+        "foreign-table": "tags",
+        "foreign-column": "tag_id",
+        "on-update": "cascade"
+      }
+    ]
+  },
+  {
+    "name": "years",
+    "comment": "Stores which years coins were available in",
+    "columns": [
+      {
+        "name": "coin_id",
+        "comment": "Which coin this year applies to",
+        "type": "varchar",
+        "options": {
+          "notnull": true,
+          "length": 255
+        }
+      },
+      {
+        "name": "year",
+        "type": "int",
+        "options": {
+          "notnull": true
+        }
+      },
+      {
+        "name": "tags",
+        "comment": "Tags associated with the coin year",
+        "type": "varchar",
+        "options": {
+          "notnull": true,
+          "length": 255,
+          "default": "none"
+        }
+      }
+    ],
+    "primarykey": [
+      "coin_id",
+      "year"
+    ],
+    "foreignkey": [
+      {
+        "column": "coin_id",
+        "foreign-table": "coins",
+        "foreign-column": "coin_id",
+        "on-update": "cascade"
+      },
+      {
+        "column": "tags",
+        "foreign-table": "tags",
+        "foreign-column": "tag_id",
+        "on-update": "cascade"
+      }
+    ]
+  },
+  {
+    "name": "specific_coins",
+    "comment": "Stores information about a singular coin",
+    "columns": [
+      {
+        "name": "id",
+        "type": "int",
+        "options": {
+          "notnull": true,
+          "autoincrement": true
+        }
+      },
+      {
+        "name": "coin_id",
+        "comment": "Which coin this specific coin belongs to",
+        "type": "varchar",
+        "options": {
+          "notnull": true,
+          "length": 255
+        }
+      },
+      {
+        "name": "year",
+        "type": "int"
+      },
+      {
+        "name": "mintmark",
+        "type": "varchar",
+        "options": {
+          "length": 255
+        }
+      }
+    ],
+    "primarykey": [
+      "id"
+    ],
+    "foreignkey": [
+      {
+        "column": "coin_id",
+        "foreign-table": "coins",
+        "foreign-column": "coin_id",
+        "on-update": "cascade"
+      }
+    ]
+  },
+  {
+    "name": "purchases",
+    "comment": "Stores information about a purchase",
+    "columns": [
+      {
+        "name": "purchase_id",
+        "type": "int",
+        "options": {
+          "notnull": true,
+          "autoincrement": true
+        }
+      },
+      {
+        "name": "coin_id",
+        "comment": "Which coin this purchase belongs to",
+        "type": "varchar",
+        "options": {
+          "notnull": true,
+          "length": 255
+        }
+      },
+      {
+        "name": "purchase_date",
+        "comment": "The date of the purchase",
+        "type": "date",
+        "options": {
+          "notnull": true
+        }
+      },
+      {
+        "name": "unit_price",
+        "comment": "The price of each coin in the purchase",
+        "type": "decimal",
+        "options": {
+          "notnull": true,
+          "length": 30,
+          "decimal": 10
+        }
+      },
+      {
+        "name": "purchase_quantity",
+        "comment": "The number of coins in the purchase.",
+        "type": "int",
+        "options": {
+          "notnull": true,
+          "default": 1
+        }
+      },
+      {
+        "name": "specific_coin",
+        "type": "int"
+      }
+    ],
+    "primarykey": [
+      "purchase_id"
+    ],
+    "foreignkey": [
+      {
+        "column": "coin_id",
+        "foreign-table": "coins",
+        "foreign-column": "coin_id",
+        "on-update": "cascade"
+      },
+      {
+        "column": "specific_coin",
+        "foreign-table": "specific_coins",
+        "foreign-column": "id",
+        "on-update": "cascade"
+      }
+    ]
+  }
+]
