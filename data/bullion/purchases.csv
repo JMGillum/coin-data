@@ -1,0 +1,9 @@
+purchase_id,coin_id,purchase_date,unit_price,purchase_quantity,specific_coin
+1,'can_maple_1_oz_1','2025-04-18',33.9000000000,1,NULL
+2,'gbr_britannia_1_oz_1','2025-05-01',34.2000000000,1,NULL
+3,'zaf_krugerrand_1_oz_1','2025-06-24',37.7000000000,1,NULL
+4,'can_maple_1_oz_1','2025-06-24',37.9500000000,1,NULL
+9,'can_maple_1_oz_1','2025-07-08',38.2000000000,1,NULL
+32,'can_maple_1_oz_1','2026-01-23',97.1000000000,1,NULL
+33,'can_maple_1_oz_1','2026-01-30',83.0000000000,1,NULL
+35,'zaf_krugerrand_1_oz_1','2026-02-05',75.5000000000,1,NULL

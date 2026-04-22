@@ -1,0 +1,10 @@
+id,coin_id,year,mintmark
+1,'fra_franc_100_1',1982,NULL
+2,'fra_franc_10_1',1931,NULL
+3,'deu_mark_10_1',1898,'A'
+4,'ita_lira_1_1',1867,NULL
+5,'che_franc_2_2',1920,NULL
+6,'che_franc_fractional_1_2_3',1943,NULL
+7,'che_franc_1_3',1945,NULL
+8,'che_franc_5_2',1966,NULL
+9,'pol_zloty_10_1',1933,'warsaw'
