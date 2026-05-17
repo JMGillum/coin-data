@@ -9,3 +9,6 @@ purchases.*.sql
 *_purchases.sql
 *_purchases.*.sql
 backups/*
+data/*/sql
+data/test
+dev/
